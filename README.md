@@ -24,6 +24,7 @@ In your pull request description, you should include:
 
 | Name           | Validation Loss | Link | Verification status (leave empty) |
 | :------------- | --------------: | ---: | --------------------------------: |
+| Josiah Wong | 3.163 | [Validation loss curve](https://api.wandb.ai/links/cremebrule/flqnxfei) | |
 | Joe Li | 3.19406 | [Validation loss curve](images/joe_better_muon.png)
 | Herman Brunborg | 3.195| https://api.wandb.ai/links/brunborg-cs336/ei5cjuuw | |
 | Stephen Ge | 3.238 | https://api.wandb.ai/links/stephenge/blg1vv9v | |
@@ -43,7 +44,6 @@ In your pull request description, you should include:
 | Ayush Alag | 3.56 | https://api.wandb.ai/links/ayushalag1-stanford-university/z56avu3c | |
 | Kyler Wang | 3.57 | https://api.wandb.ai/links/kylerwang-stanford-university/5znjvf3e | |
 | Adam Zhao | 3.58 | https://api.wandb.ai/links/zhao1adam-stanford-university/5zgjjs1h |
-| Josiah Wong | 3.61 | [Validation loss curve](https://wandb.ai/cremebrule/cs336_leaderboard/reports/CS336-Assignment-1-Initial-Leaderboard-Submission--VmlldzoxMjMxMjU1MA) | |
 | orrzohar       |            3.61 |https://api.wandb.ai/links/marvl/xpyqen6p|
 | Prateek Varshney | 3.62 | https://api.wandb.ai/links/stanfordcs/jlkmfbgj |
 | Varun Desai | 3.63 | https://api.wandb.ai/links/vdesai10/all5y62k | |
