@@ -78,5 +78,6 @@ In your pull request description, you should include:
 | atj10 |  3.83 | [Validation loss curve](./images/atj10_loss_curves.png)  |  |
 | Ryan Zhao | 3.84 | https://api.wandb.ai/links/knightasterial-stanforduniversity/j7z9j001 | |
 | jshenoy | 3.99 | https://api.wandb.ai/links/jayshenoy-stanford-university/shpznb3o | |
+| William Huang | 3.88 | https://api.wandb.ai/links/abcisosm/bgl39okf | |
 | Arya Bakhtiar | 4.00 | https://drive.google.com/file/d/1nKmlqy1UJ6ZlmWjhZe-jTTN6h4Vn2vZK/view?usp=drive_link | |
 | naive baseline |            5.00 |      |                          Verified |
