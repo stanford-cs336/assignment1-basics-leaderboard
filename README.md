@@ -98,6 +98,7 @@ It should not be easy to get a validation loss better than 3.3.
 
 | Name           | Validation Loss | Link | Verification status (leave empty) |
 | :------------- | --------------: | ---: | --------------------------------: |
+| Dilawar Mahmood | 1.4999| https://api.wandb.ai/links/dilawar-mahmood/yl7cjaxk | |
 | Herman Brunborg | 3.0781| https://api.wandb.ai/links/brunborg-cs336/igorg097 | Verified |
 | Jorge Vanco | 3.1371| https://api.wandb.ai/links/jorgev/qa9to62v | |
 | Stephen Ge | 3.1460 | https://api.wandb.ai/links/stephenge/cc9sewxe | Verified |
