@@ -98,7 +98,7 @@ It should not be easy to get a validation loss better than 3.3.
 
 | Name           | Validation Loss | Link | Verification status (leave empty) |
 | :------------- | --------------: | ---: | --------------------------------: |
-| Vegard Skogstad | 3.0762 | https://api.wandb.ai/links/skogstadv-hobbyist/23ar5rj1 | |
+| Vegard Skogstad | 3.0305 | https://api.wandb.ai/links/skogstadv-hobbyist/w94h1ysd | |
 | Herman Brunborg | 3.0781| https://api.wandb.ai/links/brunborg-cs336/igorg097 | Verified |
 | Jorge Vanco | 3.1371| https://api.wandb.ai/links/jorgev/qa9to62v | |
 | Stephen Ge | 3.1460 | https://api.wandb.ai/links/stephenge/cc9sewxe | Verified |
