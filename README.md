@@ -121,6 +121,7 @@ It should not be easy to get a validation loss better than 3.3.
 | Chenchen Gu | 3.314 | https://api.wandb.ai/links/cygu/2cwahtxu | |
 | Ashish Rao | 3.330 | https://api.wandb.ai/links/aprao/v79845cv | |
 | Arnuv Tandon | 3.33213 | https://wandb.ai/arnuv-tandon-stanford-university/cs336/reports/CS-336-Leaderboard--VmlldzoxMjM2NDY5OA?accessToken=eh8nugwo4d6zvq7sgajuni8892vfoomcp7k0klbqzkqrzj6h9ex789r38u76myrh | |
+| Dong Linkang | 3.33508 | https://api.wandb.ai/links/donglinkang2021-beijing-institute-of-technology/yjlpxerm | |
 | Frank Latos | 3.3506 | https://api.wandb.ai/links/flatos-duo-systems-inc-/c7e7ea70 | |
 | Mehmet Hamza Erol | 3.353 | https://api.wandb.ai/links/mhamzaerol-stanford-university/hcjj4l7r | |
 | Divija Hasteer | 3.35628 | [Validation Loss Curve](images/dhasteer_leaderboard_sub.png) | |
