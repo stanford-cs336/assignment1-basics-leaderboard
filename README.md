@@ -24,6 +24,7 @@ You may either upload an image directly to the repo (use the [./images](./images
 We are considering adding an automated validation loss check, considering it's easy to measure your metrics wrong in a way that will place you higher on the leaderboard than you should be.
 If your loss seems too good to be true, make sure to validate your training and valdation datasets are correct, by checking decoded samples, and making sure your vocab is correct with 32k tokens.
 It should not be easy to get a validation loss better than 3.3.
+We validate at context length 512, so your reported validation loss should also be calculated with this setting.
 
 ## OpenWebText (subsample) validation loss leaderboard
 
