@@ -112,6 +112,7 @@ We validate at context length 512, so your reported validation loss should also 
 | Puheng Li | 3.268 | https://api.wandb.ai/links/puhengli-stanford-university/s1cokosj | |
 | Hongyue Li | 3.27| [Validation loss curve](images/hongyue_li.png) | |
 | Christine Ye | 3.283 | https://api.wandb.ai/links/christineye/dhqwbfqa | |
+| Jiali Yang | 3.28434 | https://api.wandb.ai/links/1021601788-east-china-normal-university/bkrjzfys | |
 | I-han Lai| 3.29|https://wandb.ai/ihan-lai0924-stanford-university/cs336_hw1/reports/owt-validation-loss-25-04-18-01-16-13---VmlldzoxMjM1MjYwNA||
 | Prateek | 3.29 | https://wandb.ai/stanfordcs/OWT%20Experiments/reports/--VmlldzoxMjM2NjQ2MQ | |
 | Pinlin [Calvin] Xu | 3.29688 | https://api.wandb.ai/links/pinlinxu-lab/rv9m2oqq | |
