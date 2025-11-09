@@ -99,6 +99,7 @@ We validate at context length 512, so your reported validation loss should also 
 
 | Name           | Validation Loss | Link | Verification status (leave empty) |
 | :------------- | --------------: | ---: | --------------------------------: |
+| Dilawar Mahmood | 1.4999| https://api.wandb.ai/links/dilawar-mahmood/yl7cjaxk | |
 | Herman Brunborg | 3.0781| https://api.wandb.ai/links/brunborg-cs336/igorg097 | Verified |
 | Vegard Skogstad | 3.1354 | https://api.wandb.ai/links/skogstadv-hobbyist/kvi98ktt | |
 | Jorge Vanco | 3.1371| https://api.wandb.ai/links/jorgev/qa9to62v | |
