@@ -1,11 +1,11 @@
 # CS336 Spring 2025 Assignment 1 (Basics) Leaderboard
 
 > [!NOTE]
-> If you're a non-Stanford student and interested in submitting to the leaderboard, please create a pull request adding your result to the **second** table. To remain in the top 5, your submission must be verified, for which you should invite `marcelroed` to a minimal repo containing a uv project with `pyproject.toml`, `uv.lock` and `main.py`. Your script should be able to be reproduced on a single H100 by running `uv run main.py`.
+> If you're a non-Stanford student and interested in submitting to the leaderboard, please create a pull request adding your result to the **second** table. To remain in the top 5, your submission must be verified, for which you should invite `marcelroed` to a minimal repo containing a uv project with `pyproject.toml`, `uv.lock` and `main.py`. Your script should be able to be reproduced on a single B200 by running `uv run main.py`.
 
 To submit to the leaderboard, submit a pull request that adds your results to the Markdown table below. The table should be sorted by increasing loss.
 
-Note that your submission can run for at most 1.5 hours on an H100, and that you may only use the OpenWebText training dataset that we provide.
+Note that your submission can run for at most 1.5 hours on an B200, and that you may only use the OpenWebText training dataset that we provide.
 The code must clearly be your own work, and you can't use external implementations for systems-critical aspects of your model.
 
 The top 3 submissions will receive a prize at the end of the quarter, and the external top 3 submissions will receive a T-shirt.
