@@ -5,7 +5,7 @@
 
 To submit to the leaderboard, submit a pull request that adds your results to the Markdown table below. The table should be sorted by increasing loss.
 
-Note that your submission can run for at most 1.5 hours on an B200, and that you may only use the OpenWebText training dataset that we provide.
+Note that your submission can run for at most 45 minutes on a B200, and that you may only use the OpenWebText training dataset that we provide.
 The code must clearly be your own work, and you can't use external implementations for systems-critical aspects of your model.
 
 The top 3 submissions will receive a prize at the end of the quarter, and the external top 3 submissions will receive a T-shirt.
@@ -17,7 +17,7 @@ Leading submissions that cannot be verified will be removed.
 In your pull request description, you should include:
 
 - The final validation loss that was recorded
-- A link to an associated learning curve that clearly shows a wallclock-time x-axis that is less than 1.5 hours.
+- A link to an associated learning curve that clearly shows a wallclock-time x-axis that is less than 45 minutes.
 You may either upload an image directly to the repo (use the [./images](./images)) folder or link to a publicly-viewable plot from a service like Weights and Biases.
 - A description of what you did
 
