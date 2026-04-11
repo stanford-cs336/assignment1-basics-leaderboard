@@ -87,6 +87,7 @@ We validate at context length 512, so your reported validation loss should also 
 | Hongyue Li | 3.79 | [Validation loss curve](./images/lhy.png)  |  |
 | atj10 |  3.83 | [Validation loss curve](./images/atj10_loss_curves.png)  |  |
 | Ryan Zhao | 3.84 | https://api.wandb.ai/links/knightasterial-stanforduniversity/j7z9j001 | |
+| Alex Gu | 3.87 | [Validation loss curve](./images/alexgu_validation_curve.png)  |  |
 | William Huang | 3.88 | https://api.wandb.ai/links/abcisosm/bgl39okf | |
 | jshenoy | 3.99 | https://api.wandb.ai/links/jayshenoy-stanford-university/shpznb3o | |
 | Arya Bakhtiar | 4.00 | https://drive.google.com/file/d/1nKmlqy1UJ6ZlmWjhZe-jTTN6h4Vn2vZK/view?usp=drive_link | |
