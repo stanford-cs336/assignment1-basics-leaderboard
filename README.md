@@ -1,25 +1,26 @@
-# CS336 Spring 2025 Assignment 1 (Basics) Leaderboard
+# CS336 Spring 2026 Assignment 1 (Basics) Leaderboard
 
 > [!NOTE]
 > If you're a non-Stanford student and interested in submitting to the leaderboard, please create a pull request adding your result to the **second** table. To remain in the top 5, your submission must be verified, for which you should invite `marcelroed` to a minimal repo containing a uv project with `pyproject.toml`, `uv.lock` and `main.py`. Your script should be able to be reproduced on a single B200 by running `uv run main.py`.
 
 To submit to the leaderboard, submit a pull request that adds your results to the Markdown table below. The table should be sorted by increasing loss.
 
-Note that your submission can run for at most 45 minutes on a B200, and that you may only use the OpenWebText training dataset that we provide.
-The code must clearly be your own work, and you can't use external implementations for systems-critical aspects of your model.
+Note that your submission can run for at most 45 minutes on a single B200, and that you may only use the OpenWebText training dataset that we provide.
+The code must clearly be your own work, and you can't use external implementations outside of what we explicitly allow in the assignment writeup.
+Any use of AI or external code copying will result in a disqualification.
 
 The top 3 submissions will receive a prize at the end of the quarter, and the external top 3 submissions will receive a T-shirt.
 To make this fair, we will reorder the top 5 scoring students based on our reproduced training runs.
 **Make sure you save a snapshot of your best code so it can be reproduced by us!**
 We will reach out to the top few students after results have stabilized.
-Leading submissions that cannot be verified will be removed.
+Leading submissions that cannot be verified or are invalid will be removed.
 
 In your pull request description, you should include:
 
-- The final validation loss that was recorded
+- The final validation loss that was recorded.
 - A link to an associated learning curve that clearly shows a wallclock-time x-axis that is less than 45 minutes.
 You may either upload an image directly to the repo (use the [./images](./images)) folder or link to a publicly-viewable plot from a service like Weights and Biases.
-- A description of what you did
+- A description of what you did.
 
 We are considering adding an automated validation loss check, considering it's easy to measure your metrics wrong in a way that will place you higher on the leaderboard than you should be.
 If your loss seems too good to be true, make sure to validate your training and valdation datasets are correct, by checking decoded samples, and making sure your vocab is correct with 32k tokens.
@@ -27,6 +28,15 @@ It should not be easy to get a validation loss better than 3.3.
 We validate at context length 512, so your reported validation loss should also be calculated with this setting.
 
 ## OpenWebText (subsample) validation loss leaderboard
+
+<details markdown="1">
+<summary>Stanford class leaderboard (Spring 2026)</summary>
+
+| Name           | Validation Loss | Link | Verification status (leave empty) |
+| :------------- | --------------: | ---: | --------------------------------: |
+| naive baseline |            5.00 |      |                          Verified |
+
+</details>
 
 <details markdown="1">
 <summary>Stanford class leaderboard (Spring 2025)</summary>
