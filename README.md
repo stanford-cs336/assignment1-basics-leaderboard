@@ -29,14 +29,11 @@ We validate at context length 512, so your reported validation loss should also 
 
 ## OpenWebText (subsample) validation loss leaderboard
 
-<details markdown="1">
-<summary>Stanford class leaderboard (Spring 2026)</summary>
+Stanford class leaderboard (Spring 2026)
 
 | Name           | Validation Loss | Link | Verification status (leave empty) |
 | :------------- | --------------: | ---: | --------------------------------: |
 | naive baseline |            5.00 |      |                          Verified |
-
-</details>
 
 <details markdown="1">
 <summary>Stanford class leaderboard (Spring 2025)</summary>
