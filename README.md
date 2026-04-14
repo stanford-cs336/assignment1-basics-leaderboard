@@ -33,6 +33,7 @@ Stanford class leaderboard (Spring 2026)
 
 | Name           | Validation Loss | Link | Verification status (leave empty) |
 | :------------- | --------------: | ---: | --------------------------------: |
+|Keshav Patel Keval | 3.20313 | https://api.wandb.ai/links/keshavpatel564-stanford-university/0mxcgf55 | | 
 | naive baseline |            5.00 |      |                          Verified |
 
 <details markdown="1">
