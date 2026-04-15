@@ -37,6 +37,7 @@ Stanford class leaderboard (Spring 2026)
 | Max Liu        |          3.2266 | https://api.wandb.ai/links/maxliu01-stanford-university/4ml64dr6 | |
 | Javier Nieto   |          3.37   | https://api.wandb.ai/links/jgnieto-stanford-university/rvnadego | |
 | Tim Chen | 3.75 | https://wandb.ai/chentim-sh-stanford-university/cs336-assignment1/runs/s8n70ens/panel/kwlfruabc?nw=nwuserchentimsh|
+| Jason Meng | 4.13 | https://wandb.ai/jiemeng-stanford-university/cs336-lm/groups/HW1-leaderboard/workspace/panel/bvvdupso1| |
 | naive baseline |            5.00 |      |                          Verified |
 
 <details markdown="1">
