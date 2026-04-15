@@ -33,6 +33,7 @@ Stanford class leaderboard (Spring 2026)
 
 | Name           | Validation Loss | Link | Verification status (leave empty) |
 | :------------- | --------------: | ---: | --------------------------------: |
+|Keshav Patel Keval | 3.20313 | https://api.wandb.ai/links/keshavpatel564-stanford-university/0mxcgf55 | | 
 | Tim Chen | 3.75 | https://wandb.ai/chentim-sh-stanford-university/cs336-assignment1/runs/s8n70ens/panel/kwlfruabc?nw=nwuserchentimsh|
 | naive baseline |            5.00 |      |                          Verified |
 
