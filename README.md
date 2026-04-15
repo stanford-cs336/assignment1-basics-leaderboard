@@ -33,6 +33,7 @@ Stanford class leaderboard (Spring 2026)
 
 | Name           | Validation Loss | Link | Verification status (leave empty) |
 | :------------- | --------------: | ---: | --------------------------------: |
+| Max Liu        |          3.2266 | https://api.wandb.ai/links/maxliu01-stanford-university/4ml64dr6 | |
 | naive baseline |            5.00 |      |                          Verified |
 
 <details markdown="1">
