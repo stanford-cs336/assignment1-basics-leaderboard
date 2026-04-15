@@ -35,10 +35,10 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | :------------- | --------------: | ---: | --------------------------------: |
 | Keshav Patel Keval | 3.20313 | https://api.wandb.ai/links/keshavpatel564-stanford-university/0mxcgf55 | | 
 | Max Liu        |          3.2266 | https://api.wandb.ai/links/maxliu01-stanford-university/4ml64dr6 | |
+| Tim Chen | 3.335 | https://wandb.ai/chentim-sh-stanford-university/cs336-assignment1/reports/valid_loss-26-04-15-15-36-54---VmlldzoxNjU0NTU4Ng |
 | Javier Nieto   |          3.37   | https://api.wandb.ai/links/jgnieto-stanford-university/rvnadego | |
 | Tushar Aggarwal | 3.4046 | [https://api.wandb.ai/links/tushar56/bduabcti](https://api.wandb.ai/links/tushar56/tc7lfg7x) | |
 | Aniket Gupta        |          3.41563 | https://api.wandb.ai/links/aniketgupta-stanford-university/jszkfzky | |
-| Tim Chen | 3.75 | https://wandb.ai/chentim-sh-stanford-university/cs336-assignment1/runs/s8n70ens/panel/kwlfruabc?nw=nwuserchentimsh|
 | Jason Meng | 4.13 | https://wandb.ai/jiemeng-stanford-university/cs336-lm/groups/HW1-leaderboard/workspace/panel/bvvdupso1| |
 | naive baseline |            5.00 |      |                          Verified |
 
