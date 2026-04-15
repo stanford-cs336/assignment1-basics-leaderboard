@@ -19,7 +19,7 @@ In your pull request description, you should include:
 
 - The final validation loss that was recorded.
 - A link to an associated learning curve that clearly shows a wallclock-time x-axis that is less than 45 minutes.
-You may either upload an image directly to the repo (use the [./images](./images)) folder or link to a publicly-viewable plot from a service like Weights and Biases.
+You may either upload an image directly to the repo (use the [./images](./images)) folder or link to a publicly-viewable plot from a service like Weights and Biases. Make sure the Weights and Biases link is publicly available by opening it in a private/incognito window.
 - A description of what you did.
 
 We are considering adding an automated validation loss check, considering it's easy to measure your metrics wrong in a way that will place you higher on the leaderboard than you should be.
@@ -29,7 +29,7 @@ We validate at context length 512, so your reported validation loss should also 
 
 ## OpenWebText (subsample) validation loss leaderboard
 
-Stanford class leaderboard (Spring 2026)
+Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 
 | Name           | Validation Loss | Link | Verification status (leave empty) |
 | :------------- | --------------: | ---: | --------------------------------: |
@@ -43,7 +43,7 @@ Stanford class leaderboard (Spring 2026)
 | naive baseline |            5.00 |      |                          Verified |
 
 <details markdown="1">
-<summary>Stanford class leaderboard (Spring 2025)</summary>
+<summary>Stanford class leaderboard (Spring 2025) - 1.5 H100 hours</summary>
 
 | Name           | Validation Loss | Link | Verification status (leave empty) |
 | :------------- | --------------: | ---: | --------------------------------: |
