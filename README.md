@@ -39,7 +39,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Javier Nieto   |          3.37   | https://api.wandb.ai/links/jgnieto-stanford-university/rvnadego | |
 | Tushar Aggarwal | 3.4046 | [https://api.wandb.ai/links/tushar56/bduabcti](https://api.wandb.ai/links/tushar56/tc7lfg7x) | |
 | Aniket Gupta        |          3.41563 | https://api.wandb.ai/links/aniketgupta-stanford-university/jszkfzky | |
-| Jason Meng | 4.13 | https://wandb.ai/jiemeng-stanford-university/cs336-lm/groups/HW1-leaderboard/workspace/panel/bvvdupso1| |
+| Jason Meng | 4.13 | https://api.wandb.ai/links/jiemeng-stanford-university/mx5r6f5c| |
 | naive baseline |            5.00 |      |                          Verified |
 
 <details markdown="1">
