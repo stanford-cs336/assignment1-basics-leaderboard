@@ -35,6 +35,7 @@ Stanford class leaderboard (Spring 2026)
 | :------------- | --------------: | ---: | --------------------------------: |
 | Keshav Patel Keval | 3.20313 | https://api.wandb.ai/links/keshavpatel564-stanford-university/0mxcgf55 | | 
 | Max Liu        |          3.2266 | https://api.wandb.ai/links/maxliu01-stanford-university/4ml64dr6 | |
+| Aniket Gupta        |          3.41563 | https://api.wandb.ai/links/aniketgupta-stanford-university/jszkfzky | |
 | Tim Chen | 3.75 | https://wandb.ai/chentim-sh-stanford-university/cs336-assignment1/runs/s8n70ens/panel/kwlfruabc?nw=nwuserchentimsh|
 | naive baseline |            5.00 |      |                          Verified |
 
