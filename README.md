@@ -19,7 +19,7 @@ In your pull request description, you should include:
 
 - The final validation loss that was recorded.
 - A link to an associated learning curve that clearly shows a wallclock-time x-axis that is less than 45 minutes.
-You may either upload an image directly to the repo (use the [./images](./images)) folder or link to a publicly-viewable plot from a service like Weights and Biases.
+You may either upload an image directly to the repo (use the [./images](./images)) folder or link to a publicly-viewable plot from a service like Weights and Biases. Make sure the Weights and Biases link is publicly available by opening it in a private/incognito window.
 - A description of what you did.
 
 We are considering adding an automated validation loss check, considering it's easy to measure your metrics wrong in a way that will place you higher on the leaderboard than you should be.
@@ -29,20 +29,22 @@ We validate at context length 512, so your reported validation loss should also 
 
 ## OpenWebText (subsample) validation loss leaderboard
 
-Stanford class leaderboard (Spring 2026)
+Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 
 | Name           | Validation Loss | Link | Verification status (leave empty) |
 | :------------- | --------------: | ---: | --------------------------------: |
 | Keshav Patel Keval | 3.20313 | https://api.wandb.ai/links/keshavpatel564-stanford-university/0mxcgf55 | | 
 | Max Liu        |          3.2266 | https://api.wandb.ai/links/maxliu01-stanford-university/4ml64dr6 | |
-| Eric Chen| 3.33875 | https://api.wandb.ai/links/3ricme-Stanford University/cimht73a | |
+| Tim Chen | 3.335 | https://wandb.ai/chentim-sh-stanford-university/cs336-assignment1/reports/valid_loss-26-04-15-15-36-54---VmlldzoxNjU0NTU4Ng |
 | Javier Nieto   |          3.37   | https://api.wandb.ai/links/jgnieto-stanford-university/rvnadego | |
-| Tim Chen | 3.75 | https://wandb.ai/chentim-sh-stanford-university/cs336-assignment1/runs/s8n70ens/panel/kwlfruabc?nw=nwuserchentimsh|
-| Jason Meng | 4.13 | https://wandb.ai/jiemeng-stanford-university/cs336-lm/groups/HW1-leaderboard/workspace/panel/bvvdupso1| |
+| Eric Chen| 3.33875 | https://api.wandb.ai/links/3ricme-Stanford University/cimht73a | |
+| Tushar Aggarwal | 3.4046 | [https://api.wandb.ai/links/tushar56/bduabcti](https://api.wandb.ai/links/tushar56/tc7lfg7x) | |
+| Aniket Gupta        |          3.41563 | https://api.wandb.ai/links/aniketgupta-stanford-university/jszkfzky | |
+| Jason Meng | 4.13 | https://api.wandb.ai/links/jiemeng-stanford-university/mx5r6f5c| |
 | naive baseline |            5.00 |      |                          Verified |
 
 <details markdown="1">
-<summary>Stanford class leaderboard (Spring 2025)</summary>
+<summary>Stanford class leaderboard (Spring 2025) - 1.5 H100 hours</summary>
 
 | Name           | Validation Loss | Link | Verification status (leave empty) |
 | :------------- | --------------: | ---: | --------------------------------: |
