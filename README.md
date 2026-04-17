@@ -124,9 +124,9 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 
 | Name           | Validation Loss | Link | Verification status (leave empty) |
 | :------------- | --------------: | ---: | --------------------------------: |
+| Vegard Skogstad | 3.0158 | https://wandb.ai/skogstadv-hobbyist/H100-sxm5-OWT-testruns/reports/Leaderboard-submission--VmlldzoxNTQ3NTIwMg | |
 | Vilhelm Toivonen | 3.03196| https://api.wandb.ai/links/vilhelm-toivonen-helsinki-university/ey73mx97 | |
 | Herman Brunborg | 3.0781| https://api.wandb.ai/links/brunborg-cs336/igorg097 | Verified |
-| Vegard Skogstad | 3.1354 | https://api.wandb.ai/links/skogstadv-hobbyist/kvi98ktt | |
 | Jorge Vanco | 3.1371| https://api.wandb.ai/links/jorgev/qa9to62v | |
 | Stephen Ge | 3.1460 | https://api.wandb.ai/links/stephenge/cc9sewxe | Verified |
 | Brandon Snider | 3.1658 | https://api.wandb.ai/links/brandon-snider-stanford-university/v8n2t4py | Verified |
