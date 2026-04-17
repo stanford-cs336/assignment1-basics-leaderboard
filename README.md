@@ -36,6 +36,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Tanush Talati | 3.2016 | https://api.wandb.ai/links/ttalati-stanford-university/hzi1nxpq | | 
 | Keshav Patel Keval | 3.20313 | https://api.wandb.ai/links/keshavpatel564-stanford-university/0mxcgf55 | | 
 | Max Liu        |          3.2266 | https://api.wandb.ai/links/maxliu01-stanford-university/4ml64dr6 | |
+| Daniel Lee | 3.2629 | https://api.wandb.ai/links/daniel-lee-ml/esat0gwl | |
 | Tim Chen | 3.335 | https://wandb.ai/chentim-sh-stanford-university/cs336-assignment1/reports/valid_loss-26-04-15-15-36-54---VmlldzoxNjU0NTU4Ng |
 | Eric Chen| 3.33875 | https://api.wandb.ai/links/3ricme-Stanford%20University/cimht73a | |
 | Tushar Dalmia | 3.36392 | https://api.wandb.ai/links/tdalmia-stanford-university/xxqbg3y0 | |
@@ -43,7 +44,12 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Tushar Aggarwal | 3.37708 | https://api.wandb.ai/links/tushar56/ogqjgcsl | |
 | Andy Dimnaku   |  3.3995         | https://api.wandb.ai/links/dimnaku-stanford-university/ffvj5zy8 | |
 | Yufei Liu | 3.402 | https://api.wandb.ai/links/yf6-stanford-university/yus0uve4 | |
+| Luisa Shimabucoro | 3.406 | https://api.wandb.ai/links/hashimoto-group/jr1f6dga | |
 | Aniket Gupta        |          3.41563 | https://api.wandb.ai/links/aniketgupta-stanford-university/jszkfzky | |
+| Jiaming Shen | 3.4462 | https://api.wandb.ai/links/shenjm-stanford-university/nan5mxa8 | |
+| Sara Kothari | 3.48589 | https://api.wandb.ai/links/sarako-stanford-university/zxh58oa8 | |
+| Andy Ouyang | 3.7707 | https://api.wandb.ai/links/andyou-stanford-university/sf7em5l2 | |
+| Alexa Tartaglini | 3.97 | | Alexa Tartaglini | 3.97 | https://api.wandb.ai/links/alexart/95ju0gsn | | | |
 | Jason Meng | 4.13 | https://api.wandb.ai/links/jiemeng-stanford-university/mx5r6f5c| |
 | naive baseline |            5.00 |      |                          Verified |
 
