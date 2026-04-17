@@ -41,9 +41,9 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Eric Chen| 3.33875 | https://api.wandb.ai/links/3ricme-Stanford%20University/cimht73a | |
 | Tushar Dalmia | 3.36392 | https://api.wandb.ai/links/tdalmia-stanford-university/xxqbg3y0 | |
 | Javier Nieto   |          3.37   | https://api.wandb.ai/links/jgnieto-stanford-university/rvnadego | |
+| Tushar Aggarwal | 3.37708 | https://api.wandb.ai/links/tushar56/ogqjgcsl | |
 | Andy Dimnaku   |  3.3995         | https://api.wandb.ai/links/dimnaku-stanford-university/ffvj5zy8 | |
 | Yufei Liu | 3.402 | https://api.wandb.ai/links/yf6-stanford-university/yus0uve4 | |
-| Tushar Aggarwal | 3.4046 | [https://api.wandb.ai/links/tushar56/bduabcti](https://api.wandb.ai/links/tushar56/tc7lfg7x) | |
 | Luisa Shimabucoro | 3.406 | https://api.wandb.ai/links/hashimoto-group/jr1f6dga | |
 | Aniket Gupta        |          3.41563 | https://api.wandb.ai/links/aniketgupta-stanford-university/jszkfzky | |
 | Jiaming Shen | 3.4462 | https://api.wandb.ai/links/shenjm-stanford-university/nan5mxa8 | |
