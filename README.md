@@ -88,6 +88,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Ayush Alag | 3.56 | https://api.wandb.ai/links/ayushalag1-stanford-university/z56avu3c | |
 | Kyler Wang | 3.57 | https://api.wandb.ai/links/kylerwang-stanford-university/5znjvf3e | |
 | Adam Zhao | 3.58 | https://api.wandb.ai/links/zhao1adam-stanford-university/5zgjjs1h |
+| Subha Vadlamannati | 3.58 | https://api.wandb.ai/links/subhavee2/5t7klnea |
 | Aryaman Arora | 3.61 | https://wandb.ai/aryamanarora/cs336/runs/39skvnwk?nw=t6wb3iafj2q |
 | Josiah Wong | 3.61 | [Validation loss curve](https://wandb.ai/cremebrule/cs336_leaderboard/reports/CS336-Assignment-1-Initial-Leaderboard-Submission--VmlldzoxMjMxMjU1MA) | |
 | orrzohar       |            3.61 |https://api.wandb.ai/links/marvl/xpyqen6p|
