@@ -36,15 +36,22 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Tanush Talati | 3.2016 | https://api.wandb.ai/links/ttalati-stanford-university/hzi1nxpq | | 
 | Keshav Patel Keval | 3.20313 | https://api.wandb.ai/links/keshavpatel564-stanford-university/0mxcgf55 | | 
 | Max Liu        |          3.2266 | https://api.wandb.ai/links/maxliu01-stanford-university/4ml64dr6 | |
+| Daniel Lee | 3.2629 | https://api.wandb.ai/links/daniel-lee-ml/esat0gwl | |
 | Tim Chen | 3.335 | https://wandb.ai/chentim-sh-stanford-university/cs336-assignment1/reports/valid_loss-26-04-15-15-36-54---VmlldzoxNjU0NTU4Ng |
 | Eric Chen| 3.33875 | https://api.wandb.ai/links/3ricme-Stanford%20University/cimht73a | |
 | Tushar Dalmia | 3.36392 | https://api.wandb.ai/links/tdalmia-stanford-university/xxqbg3y0 | |
 | Javier Nieto   |          3.37   | https://api.wandb.ai/links/jgnieto-stanford-university/rvnadego | |
+| Tushar Aggarwal | 3.37708 | https://api.wandb.ai/links/tushar56/ogqjgcsl | |
 | Andy Dimnaku   |  3.3995         | https://api.wandb.ai/links/dimnaku-stanford-university/ffvj5zy8 | |
 | Yufei Liu | 3.402 | https://api.wandb.ai/links/yf6-stanford-university/yus0uve4 | |
-| Tushar Aggarwal | 3.4046 | [https://api.wandb.ai/links/tushar56/bduabcti](https://api.wandb.ai/links/tushar56/tc7lfg7x) | |
+| Luisa Shimabucoro | 3.406 | https://api.wandb.ai/links/hashimoto-group/jr1f6dga | |
 | Aniket Gupta        |          3.41563 | https://api.wandb.ai/links/aniketgupta-stanford-university/jszkfzky | |
+| Jiaming Shen | 3.4462 | https://api.wandb.ai/links/shenjm-stanford-university/nan5mxa8 | |
+| Sara Kothari | 3.48589 | https://api.wandb.ai/links/sarako-stanford-university/zxh58oa8 | |
 | Subha Vadlamannati | 3.58 | https://api.wandb.ai/links/subhavee2/5t7klnea |
+| Jenn Wang | 3.699 | https://api.wandb.ai/links/jennjwang/h29cc6ed | |
+| Andy Ouyang | 3.7707 | https://api.wandb.ai/links/andyou-stanford-university/sf7em5l2 | |
+| Alexa Tartaglini | 3.97 | | Alexa Tartaglini | 3.97 | https://api.wandb.ai/links/alexart/95ju0gsn | | | |
 | Jason Meng | 4.13 | https://api.wandb.ai/links/jiemeng-stanford-university/mx5r6f5c| |
 | naive baseline |            5.00 |      |                          Verified |
 
@@ -115,16 +122,18 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 </details>
 
 <details markdown="1">
-<summary>Global leaderboard (2025)</summary>
+<summary>Global leaderboard (2025) - 1.5 H100 hours</summary>
 
 | Name           | Validation Loss | Link | Verification status (leave empty) |
 | :------------- | --------------: | ---: | --------------------------------: |
+| Herman Brunborg | 3.01172 (3.0781 verified)| https://api.wandb.ai/links/brunborg-cs336/igorg097 | Verified |
+| Vegard Skogstad | 3.0158 | https://wandb.ai/skogstadv-hobbyist/H100-sxm5-OWT-testruns/reports/Leaderboard-submission--VmlldzoxNTQ3NTIwMg | |
+| Weijian [Viko] Xie | 3.0209 | https://api.wandb.ai/links/viko/axveizyy | |
+| Jorge Vanco | 3.03066 | https://api.wandb.ai/links/jorgev/qa9to62v | |
 | Vilhelm Toivonen | 3.03196| https://api.wandb.ai/links/vilhelm-toivonen-helsinki-university/ey73mx97 | |
-| Herman Brunborg | 3.0781| https://api.wandb.ai/links/brunborg-cs336/igorg097 | Verified |
-| Vegard Skogstad | 3.1354 | https://api.wandb.ai/links/skogstadv-hobbyist/kvi98ktt | |
+| Brandon Snider | 3.10938 (3.1658 verified) | https://api.wandb.ai/links/brandon-snider-stanford-university/v8n2t4py | Verified |
+| Stephen Ge | 3.11142 (3.1460 unverified) | https://api.wandb.ai/links/stephenge/cc9sewxe | Verified |
 | Jorge Vanco | 3.1371| https://api.wandb.ai/links/jorgev/qa9to62v | |
-| Stephen Ge | 3.1460 | https://api.wandb.ai/links/stephenge/cc9sewxe | Verified |
-| Brandon Snider | 3.1658 | https://api.wandb.ai/links/brandon-snider-stanford-university/v8n2t4py | Verified |
 | Joe Li | 3.19406 | [Validation loss curve](images/joe_better_muon.png)
 | George Grigorev | 3.211 | https://api.wandb.ai/links/thepowerfuldeez/4cxlverq | |
 | Tejas Narayanan | 3.22 | https://api.wandb.ai/links/tejas-narayanan/n8itavzy | |
