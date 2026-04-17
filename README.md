@@ -126,13 +126,13 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 
 | Name           | Validation Loss | Link | Verification status (leave empty) |
 | :------------- | --------------: | ---: | --------------------------------: |
-| Herman Brunborg | 3.01172 (3.0781 verified)| https://api.wandb.ai/links/brunborg-cs336/igorg097 | Verified |
+| Herman Brunborg | 3.01172| https://api.wandb.ai/links/brunborg-cs336/igorg097 | Verified |
 | Vegard Skogstad | 3.0158 | https://wandb.ai/skogstadv-hobbyist/H100-sxm5-OWT-testruns/reports/Leaderboard-submission--VmlldzoxNTQ3NTIwMg | |
 | Weijian [Viko] Xie | 3.0209 | https://api.wandb.ai/links/viko/axveizyy | |
 | Jorge Vanco | 3.03066 | https://api.wandb.ai/links/jorgev/qa9to62v | |
 | Vilhelm Toivonen | 3.03196| https://api.wandb.ai/links/vilhelm-toivonen-helsinki-university/ey73mx97 | |
-| Brandon Snider | 3.10938 (3.1658 verified) | https://api.wandb.ai/links/brandon-snider-stanford-university/v8n2t4py | Verified |
-| Stephen Ge | 3.11142 (3.1460 unverified) | https://api.wandb.ai/links/stephenge/cc9sewxe | Verified |
+| Brandon Snider | 3.10938 | https://api.wandb.ai/links/brandon-snider-stanford-university/v8n2t4py | Verified |
+| Stephen Ge | 3.11142 | https://api.wandb.ai/links/stephenge/cc9sewxe | Verified |
 | Jorge Vanco | 3.1371| https://api.wandb.ai/links/jorgev/qa9to62v | |
 | Joe Li | 3.19406 | [Validation loss curve](images/joe_better_muon.png)
 | George Grigorev | 3.211 | https://api.wandb.ai/links/thepowerfuldeez/4cxlverq | |
