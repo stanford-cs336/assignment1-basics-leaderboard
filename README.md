@@ -44,6 +44,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Yufei Liu | 3.402 | https://api.wandb.ai/links/yf6-stanford-university/yus0uve4 | |
 | Tushar Aggarwal | 3.4046 | [https://api.wandb.ai/links/tushar56/bduabcti](https://api.wandb.ai/links/tushar56/tc7lfg7x) | |
 | Aniket Gupta        |          3.41563 | https://api.wandb.ai/links/aniketgupta-stanford-university/jszkfzky | |
+| Silin Du | 3.89 | https://api.wandb.ai/links/silindd3-stanford-university/qwlgxrea | |
 | Jason Meng | 4.13 | https://api.wandb.ai/links/jiemeng-stanford-university/mx5r6f5c| |
 | naive baseline |            5.00 |      |                          Verified |
 
