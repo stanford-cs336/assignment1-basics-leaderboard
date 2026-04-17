@@ -1,25 +1,26 @@
-# CS336 Spring 2025 Assignment 1 (Basics) Leaderboard
+# CS336 Spring 2026 Assignment 1 (Basics) Leaderboard
 
 > [!NOTE]
-> If you're a non-Stanford student and interested in submitting to the leaderboard, please create a pull request adding your result to the **second** table. To remain in the top 5, your submission must be verified, for which you should invite `marcelroed` to a minimal repo containing a uv project with `pyproject.toml`, `uv.lock` and `main.py`. Your script should be able to be reproduced on a single H100 by running `uv run main.py`.
+> If you're a non-Stanford student and interested in submitting to the leaderboard, please create a pull request adding your result to the **second** table. To remain in the top 5, your submission must be verified, for which you should invite `marcelroed` to a minimal repo containing a uv project with `pyproject.toml`, `uv.lock` and `main.py`. Your script should be able to be reproduced on a single B200 by running `uv run main.py`.
 
 To submit to the leaderboard, submit a pull request that adds your results to the Markdown table below. The table should be sorted by increasing loss.
 
-Note that your submission can run for at most 1.5 hours on an H100, and that you may only use the OpenWebText training dataset that we provide.
-The code must clearly be your own work, and you can't use external implementations for systems-critical aspects of your model.
+Note that your submission can run for at most 45 minutes on a single B200, and that you may only use the OpenWebText training dataset that we provide.
+The code must clearly be your own work, and you can't use external implementations outside of what we explicitly allow in the assignment writeup.
+Any use of AI or external code copying will result in a disqualification.
 
 The top 3 submissions will receive a prize at the end of the quarter, and the external top 3 submissions will receive a T-shirt.
 To make this fair, we will reorder the top 5 scoring students based on our reproduced training runs.
 **Make sure you save a snapshot of your best code so it can be reproduced by us!**
 We will reach out to the top few students after results have stabilized.
-Leading submissions that cannot be verified will be removed.
+Leading submissions that cannot be verified or are invalid will be removed.
 
 In your pull request description, you should include:
 
-- The final validation loss that was recorded
-- A link to an associated learning curve that clearly shows a wallclock-time x-axis that is less than 1.5 hours.
-You may either upload an image directly to the repo (use the [./images](./images)) folder or link to a publicly-viewable plot from a service like Weights and Biases.
-- A description of what you did
+- The final validation loss that was recorded.
+- A link to an associated learning curve that clearly shows a wallclock-time x-axis that is less than 45 minutes.
+You may either upload an image directly to the repo (use the [./images](./images)) folder or link to a publicly-viewable plot from a service like Weights and Biases. Make sure the Weights and Biases link is publicly available by opening it in a private/incognito window.
+- A description of what you did.
 
 We are considering adding an automated validation loss check, considering it's easy to measure your metrics wrong in a way that will place you higher on the leaderboard than you should be.
 If your loss seems too good to be true, make sure to validate your training and valdation datasets are correct, by checking decoded samples, and making sure your vocab is correct with 32k tokens.
@@ -28,8 +29,32 @@ We validate at context length 512, so your reported validation loss should also 
 
 ## OpenWebText (subsample) validation loss leaderboard
 
+Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
+
+| Name           | Validation Loss | Link | Verification status (leave empty) |
+| :------------- | --------------: | ---: | --------------------------------: |
+| Tanush Talati | 3.2016 | https://api.wandb.ai/links/ttalati-stanford-university/hzi1nxpq | | 
+| Keshav Patel Keval | 3.20313 | https://api.wandb.ai/links/keshavpatel564-stanford-university/0mxcgf55 | | 
+| Max Liu        |          3.2266 | https://api.wandb.ai/links/maxliu01-stanford-university/4ml64dr6 | |
+| Daniel Lee | 3.2629 | https://api.wandb.ai/links/daniel-lee-ml/esat0gwl | |
+| Tim Chen | 3.335 | https://wandb.ai/chentim-sh-stanford-university/cs336-assignment1/reports/valid_loss-26-04-15-15-36-54---VmlldzoxNjU0NTU4Ng |
+| Eric Chen| 3.33875 | https://api.wandb.ai/links/3ricme-Stanford%20University/cimht73a | |
+| Tushar Dalmia | 3.36392 | https://api.wandb.ai/links/tdalmia-stanford-university/xxqbg3y0 | |
+| Javier Nieto   |          3.37   | https://api.wandb.ai/links/jgnieto-stanford-university/rvnadego | |
+| Tushar Aggarwal | 3.37708 | https://api.wandb.ai/links/tushar56/ogqjgcsl | |
+| Andy Dimnaku   |  3.3995         | https://api.wandb.ai/links/dimnaku-stanford-university/ffvj5zy8 | |
+| Yufei Liu | 3.402 | https://api.wandb.ai/links/yf6-stanford-university/yus0uve4 | |
+| Luisa Shimabucoro | 3.406 | https://api.wandb.ai/links/hashimoto-group/jr1f6dga | |
+| Aniket Gupta        |          3.41563 | https://api.wandb.ai/links/aniketgupta-stanford-university/jszkfzky | |
+| Jiaming Shen | 3.4462 | https://api.wandb.ai/links/shenjm-stanford-university/nan5mxa8 | |
+| Sara Kothari | 3.48589 | https://api.wandb.ai/links/sarako-stanford-university/zxh58oa8 | |
+| Andy Ouyang | 3.7707 | https://api.wandb.ai/links/andyou-stanford-university/sf7em5l2 | |
+| Alexa Tartaglini | 3.97 | | Alexa Tartaglini | 3.97 | https://api.wandb.ai/links/alexart/95ju0gsn | | | |
+| Jason Meng | 4.13 | https://api.wandb.ai/links/jiemeng-stanford-university/mx5r6f5c| |
+| naive baseline |            5.00 |      |                          Verified |
+
 <details markdown="1">
-<summary>Stanford class leaderboard (Spring 2025)</summary>
+<summary>Stanford class leaderboard (Spring 2025) - 1.5 H100 hours</summary>
 
 | Name           | Validation Loss | Link | Verification status (leave empty) |
 | :------------- | --------------: | ---: | --------------------------------: |
@@ -99,12 +124,13 @@ We validate at context length 512, so your reported validation loss should also 
 
 | Name           | Validation Loss | Link | Verification status (leave empty) |
 | :------------- | --------------: | ---: | --------------------------------: |
+| Herman Brunborg | 3.01172 (3.0781 verified)| https://api.wandb.ai/links/brunborg-cs336/igorg097 | Verified |
+| Vegard Skogstad | 3.0158 | https://wandb.ai/skogstadv-hobbyist/H100-sxm5-OWT-testruns/reports/Leaderboard-submission--VmlldzoxNTQ3NTIwMg | |
 | Jorge Vanco | 3.03066 | https://api.wandb.ai/links/jorgev/qa9to62v | |
 | Vilhelm Toivonen | 3.03196| https://api.wandb.ai/links/vilhelm-toivonen-helsinki-university/ey73mx97 | |
-| Herman Brunborg | 3.0781| https://api.wandb.ai/links/brunborg-cs336/igorg097 | Verified |
-| Vegard Skogstad | 3.1354 | https://api.wandb.ai/links/skogstadv-hobbyist/kvi98ktt | |
-| Stephen Ge | 3.1460 | https://api.wandb.ai/links/stephenge/cc9sewxe | Verified |
-| Brandon Snider | 3.1658 | https://api.wandb.ai/links/brandon-snider-stanford-university/v8n2t4py | Verified |
+| Brandon Snider | 3.10938 (3.1658 verified) | https://api.wandb.ai/links/brandon-snider-stanford-university/v8n2t4py | Verified |
+| Stephen Ge | 3.11142 (3.1460 unverified) | https://api.wandb.ai/links/stephenge/cc9sewxe | Verified |
+| Jorge Vanco | 3.1371| https://api.wandb.ai/links/jorgev/qa9to62v | |
 | Joe Li | 3.19406 | [Validation loss curve](images/joe_better_muon.png)
 | George Grigorev | 3.211 | https://api.wandb.ai/links/thepowerfuldeez/4cxlverq | |
 | Tejas Narayanan | 3.22 | https://api.wandb.ai/links/tejas-narayanan/n8itavzy | |
