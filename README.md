@@ -47,6 +47,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Jiaming Shen | 3.4462 | https://api.wandb.ai/links/shenjm-stanford-university/nan5mxa8 | |
 | Sara Kothari | 3.48589 | https://api.wandb.ai/links/sarako-stanford-university/zxh58oa8 | |
 | Andy Ouyang | 3.7707 | https://api.wandb.ai/links/andyou-stanford-university/sf7em5l2 | |
+| Alexa Tartaglini | 3.97 | | Alexa Tartaglini | 3.97 | https://api.wandb.ai/links/alexart/95ju0gsn | | | |
 | Jason Meng | 4.13 | https://api.wandb.ai/links/jiemeng-stanford-university/mx5r6f5c| |
 | naive baseline |            5.00 |      |                          Verified |
 
