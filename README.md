@@ -120,7 +120,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 </details>
 
 <details markdown="1">
-<summary>Global leaderboard (2025)</summary>
+<summary>Global leaderboard (2025) - 1.5 H100 hours</summary>
 
 | Name           | Validation Loss | Link | Verification status (leave empty) |
 | :------------- | --------------: | ---: | --------------------------------: |
