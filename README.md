@@ -53,6 +53,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Ben O'Keefe | 3.7 | https://api.wandb.ai/links/bokeefe-stanford-university/y4uxoa0y | |
 | Andy Ouyang | 3.7707 | https://api.wandb.ai/links/andyou-stanford-university/sf7em5l2 | |
 | Alexa Tartaglini | 3.97 | | Alexa Tartaglini | 3.97 | https://api.wandb.ai/links/alexart/95ju0gsn | | | |
+| Riya Sinha | 3.97 | https://api.wandb.ai/links/riyavsinha/8x5tuclt | |
 | Jason Meng | 4.13 | https://api.wandb.ai/links/jiemeng-stanford-university/mx5r6f5c| |
 | naive baseline |            5.00 |      |                          Verified |
 
