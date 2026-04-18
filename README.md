@@ -47,6 +47,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Yufei Liu | 3.402 | https://api.wandb.ai/links/yf6-stanford-university/yus0uve4 | |
 | Luisa Shimabucoro | 3.406 | https://api.wandb.ai/links/hashimoto-group/jr1f6dga | |
 | Aniket Gupta        |          3.41563 | https://api.wandb.ai/links/aniketgupta-stanford-university/jszkfzky | |
+| Asanshay Gupta        |          3.4451 | https://api.wandb.ai/links/aniketgupta-stanford-university/jszkfzky | |
 | Jiaming Shen | 3.4462 | https://api.wandb.ai/links/shenjm-stanford-university/nan5mxa8 | |
 | Sara Kothari | 3.48589 | https://api.wandb.ai/links/sarako-stanford-university/zxh58oa8 | |
 | Naveen Kannan | 3.5763 | [loss](./images/kannan.png) | |
