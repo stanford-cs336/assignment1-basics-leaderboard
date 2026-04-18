@@ -33,7 +33,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 
 | Name           | Validation Loss | Link | Verification status (leave empty) |
 | :------------- | --------------: | ---: | --------------------------------: |
-| Haoyue Xiao    | 3.1828         | https://api.wandb.ai/links/bill-xiao-stanford-university/w7sjmi5g | |
+| Haoyue Xiao    | 3.1828          | https://api.wandb.ai/links/bill-xiao-stanford-university/w7sjmi5g | |
 | Tanush Talati | 3.2016 | https://api.wandb.ai/links/ttalati-stanford-university/hzi1nxpq | | 
 | Keshav Patel Keval | 3.20313 | https://api.wandb.ai/links/keshavpatel564-stanford-university/0mxcgf55 | | 
 | Max Liu        |          3.2266 | https://api.wandb.ai/links/maxliu01-stanford-university/4ml64dr6 | |
