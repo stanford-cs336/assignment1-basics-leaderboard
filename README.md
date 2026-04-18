@@ -48,6 +48,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Aniket Gupta        |          3.41563 | https://api.wandb.ai/links/aniketgupta-stanford-university/jszkfzky | |
 | Jiaming Shen | 3.4462 | https://api.wandb.ai/links/shenjm-stanford-university/nan5mxa8 | |
 | Sara Kothari | 3.48589 | https://api.wandb.ai/links/sarako-stanford-university/zxh58oa8 | |
+| Naveen Kannan | 3.5763 | [loss](./images/kannan.png) | |
 | Subha Vadlamannati | 3.58 | https://api.wandb.ai/links/subhavee2/5t7klnea |
 | Jenn Wang | 3.699 | https://api.wandb.ai/links/jennjwang/h29cc6ed | |
 | Ben O'Keefe | 3.7 | https://api.wandb.ai/links/bokeefe-stanford-university/y4uxoa0y | |
