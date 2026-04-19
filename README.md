@@ -74,6 +74,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Shirley Yu | 4.045071189403534 | https://github.com/ShirleyU01/assignment1-basics-leaderboard/blob/main/images/shirleyu01.png
 | Kehan Li | 4.0811 | https://api.wandb.ai/links/keke77444-stanford-university/wtw9tufd | |
 | Jason Meng | 4.13 | https://api.wandb.ai/links/jiemeng-stanford-university/mx5r6f5c| |
+| James Liu | 4.33 | https://api.wandb.ai/links/jamesliu08-stanford-university/tu8vphu2
 | naive baseline |            5.00 |      |                          Verified |
 
 <details markdown="1">
