@@ -39,7 +39,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Haoyue Xiao    | 3.1828          | https://api.wandb.ai/links/bill-xiao-stanford-university/w7sjmi5g | |
 | Tanush Talati | 3.2016 | https://api.wandb.ai/links/ttalati-stanford-university/hzi1nxpq | | 
 | Keshav Patel Keval | 3.20313 | https://api.wandb.ai/links/keshavpatel564-stanford-university/0mxcgf55 | | 
-| Ravenor Davion | 3.21173 | https://wandb.ai/rdavion-stanford/cs336-owt/reports/CS336-A1-Leaderboard-Submission-rdavion--VmlldzoxNjU4NDQzMg | |
+| Ravenor Davion | 3.21173 | https://api.wandb.ai/links/rdavion-stanford/avz16xmq | |
 | Iddah Mlauzi | 3.21391 | https://api.wandb.ai/links/iddah/1ssym3ru | |
 | Jonas De Schouwer | 3.22656 | https://api.wandb.ai/links/jonasdeschouwer-university-of-oxford/l9sohwly | |
 | Max Liu        |          3.2266 | https://api.wandb.ai/links/maxliu01-stanford-university/4ml64dr6 | |
