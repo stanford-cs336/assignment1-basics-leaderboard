@@ -54,6 +54,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Aniket Gupta        |          3.41563 | https://api.wandb.ai/links/aniketgupta-stanford-university/jszkfzky | |
 | Asanshay Gupta        |          3.4451 | https://api.wandb.ai/links/aniketgupta-stanford-university/jszkfzky | |
 | Jiaming Shen | 3.4462 | https://api.wandb.ai/links/shenjm-stanford-university/nan5mxa8 | |
+| Alex Bloom | 3.4625 | https://api.wandb.ai/links/alexpeterbloom-stanford-university/ni7vw60x
 | Yuheng Wu | 3.56 | [Validation loss curve](images/yuhengwu.png) | |
 | Naveen Kannan | 3.5763 | [loss](./images/kannan.png) | |
 | Subha Vadlamannati | 3.58 | https://api.wandb.ai/links/subhavee2/5t7klnea |
@@ -176,7 +177,6 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Katherine Li | 3.418 | https://api.wandb.ai/links/kathli/rmglb4ts |
 | Harshvardhan Agarwal |      3.42 | https://api.wandb.ai/links/tokenization/dvezrvbp |  |
 | Ramgopal Venkateswaran | 3.44    | https://api.wandb.ai/links/ramvenkat98/cvrfl2pa  |  |
-| Alex Bloom | 3.46 | https://api.wandb.ai/links/alexpeterbloom-stanford-university/ni7vw60x
 | Ken Liu | 3.47 | https://api.wandb.ai/links/kenziyuliu/3z1f54qp |  |
 | Kaitlyn Wang | 3.50 | https://api.wandb.ai/links/kaitwang-stanford-university/wgigpj6h |  |
 | Sai Konkimalla | 3.51 | https://api.wandb.ai/links/sai-konk/yf8ashf0 |  |
