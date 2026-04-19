@@ -76,6 +76,17 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Jason Meng | 4.13 | https://api.wandb.ai/links/jiemeng-stanford-university/mx5r6f5c| |
 | naive baseline |            5.00 |      |                          Verified |
 
+
+<details markdown="1">
+<summary>Stanford global leaderboard (Spring 2026) - 0.75 B200 hours</summary>
+  
+| Name           | Validation Loss | Link | Verification status (leave empty) |
+| :------------- | --------------: | ---: | --------------------------------: |
+| Advay Pal    | 3.18          | https://api.wandb.ai/links/advaypal-stanford-university/mkwv67bo | |
+
+</details>
+
+  
 <details markdown="1">
 <summary>Stanford class leaderboard (Spring 2025) - 1.5 H100 hours</summary>
 
