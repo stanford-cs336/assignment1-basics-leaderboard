@@ -82,7 +82,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
   
 | Name           | Validation Loss | Link | Verification status (leave empty) |
 | :------------- | --------------: | ---: | --------------------------------: |
-| Advay Pal    | 3.18796          | https://api.wandb.ai/links/advaypal-stanford-university/mkwv67bo | |
+| Advay Pal    | 3.18          | https://api.wandb.ai/links/advaypal-stanford-university/mkwv67bo | |
 
 </details>
 
