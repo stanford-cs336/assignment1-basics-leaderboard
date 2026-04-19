@@ -176,6 +176,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Katherine Li | 3.418 | https://api.wandb.ai/links/kathli/rmglb4ts |
 | Harshvardhan Agarwal |      3.42 | https://api.wandb.ai/links/tokenization/dvezrvbp |  |
 | Ramgopal Venkateswaran | 3.44    | https://api.wandb.ai/links/ramvenkat98/cvrfl2pa  |  |
+| Alex Bloom | 3.46 | https://api.wandb.ai/links/alexpeterbloom-stanford-university/ni7vw60x
 | Ken Liu | 3.47 | https://api.wandb.ai/links/kenziyuliu/3z1f54qp |  |
 | Kaitlyn Wang | 3.50 | https://api.wandb.ai/links/kaitwang-stanford-university/wgigpj6h |  |
 | Sai Konkimalla | 3.51 | https://api.wandb.ai/links/sai-konk/yf8ashf0 |  |
