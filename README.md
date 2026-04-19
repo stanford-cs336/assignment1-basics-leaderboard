@@ -62,6 +62,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Subha Vadlamannati | 3.58 | https://api.wandb.ai/links/subhavee2/5t7klnea |
 | Jenn Wang | 3.699 | https://api.wandb.ai/links/jennjwang/h29cc6ed | |
 | Ben O'Keefe | 3.7 | https://api.wandb.ai/links/bokeefe-stanford-university/y4uxoa0y | |
+| Jack Le | 3.727 | https://api.wandb.ai/links/jackle3-stanford-university/ih8c149i | | 
 | Andy Ouyang | 3.7707 | https://api.wandb.ai/links/andyou-stanford-university/sf7em5l2 | |
 | Yanzhen Shen | 3.8245 | [Validation loss curve](images/yanzhen_shen_learning_curve.png) | |
 | Silin Du | 3.89 | https://api.wandb.ai/links/silindd3-stanford-university/qwlgxrea | |
