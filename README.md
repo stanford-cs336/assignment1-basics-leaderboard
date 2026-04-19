@@ -69,6 +69,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Yanzhen Shen | 3.8245 | [Validation loss curve](images/yanzhen_shen_learning_curve.png) | |
 | Silin Du | 3.89 | https://api.wandb.ai/links/silindd3-stanford-university/qwlgxrea | |
 | Karthik Vetrivel | 3.9011 | https://api.wandb.ai/links/kvetriv/2qsjtsvi | |
+| Nicole Ma | 3.95821 | https://api.wandb.ai/links/nicolema-stanford-university/o5nr1rzs||
 | Alexa Tartaglini | 3.97 | https://api.wandb.ai/links/alexart/95ju0gsn | |
 | Riya Sinha | 3.97 | https://api.wandb.ai/links/riyavsinha/8x5tuclt | |
 | Shirley Yu | 4.045071189403534 | https://github.com/ShirleyU01/assignment1-basics-leaderboard/blob/main/images/shirleyu01.png
