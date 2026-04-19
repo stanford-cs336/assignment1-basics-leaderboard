@@ -43,7 +43,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Jiaxin Fang | 3.32098 | https://api.wandb.ai/links/jiaxinf-stanford-university/gm6mft4d | |
 | Tim Chen | 3.335 | https://wandb.ai/chentim-sh-stanford-university/cs336-assignment1/reports/valid_loss-26-04-15-15-36-54---VmlldzoxNjU0NTU4Ng |
 | Eric Chen| 3.33875 | https://api.wandb.ai/links/3ricme-Stanford%20University/cimht73a | |
-| Sara Kothari | 3.36327 | https://api.wandb.ai/links/sarako-stanford-university/iop3e8la | |
+| Sara Kothari | 3.36327 | https://api.wandb.ai/links/sarako-stanford-university/iop3e8la  | |
 | Tushar Dalmia | 3.36392 | https://api.wandb.ai/links/tdalmia-stanford-university/xxqbg3y0 | |
 | Javier Nieto   |          3.37   | https://api.wandb.ai/links/jgnieto-stanford-university/rvnadego | |
 | Tushar Aggarwal | 3.37708 | https://api.wandb.ai/links/tushar56/ogqjgcsl | |
