@@ -38,6 +38,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Keshav Patel Keval | 3.20313 | https://api.wandb.ai/links/keshavpatel564-stanford-university/0mxcgf55 | | 
 | Iddah Mlauzi | 3.21391 | https://api.wandb.ai/links/iddah/1ssym3ru | |
 | Max Liu        |          3.2266 | https://api.wandb.ai/links/maxliu01-stanford-university/4ml64dr6 | |
+| Varun Madan | 3.2476 | https://api.wandb.ai/links/madanva-stanford-university/bpwk4h3l | |
 | Daniel Lee | 3.2629 | https://api.wandb.ai/links/daniel-lee-ml/esat0gwl | |
 | Alexandra Kim | 3.266 | https://api.wandb.ai/links/alexandrasuriya-ml/1nybxa71 | |
 | Adam Alhousiki | 3.2929 | [validation loss curve](./images/adam_alhousiki_leaderboard.png) | |
