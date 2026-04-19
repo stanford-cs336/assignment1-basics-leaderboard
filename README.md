@@ -55,6 +55,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Aniket Gupta        |          3.41563 | https://api.wandb.ai/links/aniketgupta-stanford-university/jszkfzky | |
 | Asanshay Gupta        |          3.4451 | https://api.wandb.ai/links/aniketgupta-stanford-university/jszkfzky | |
 | Jiaming Shen | 3.4462 | https://api.wandb.ai/links/shenjm-stanford-university/nan5mxa8 | |
+| Insop Song | 3.546 | https://api.wandb.ai/links/insop-song2/34j0x6dk | |
 | Yuheng Wu | 3.56 | [Validation loss curve](images/yuhengwu.png) | |
 | Naveen Kannan | 3.5763 | [loss](./images/kannan.png) | |
 | Subha Vadlamannati | 3.58 | https://api.wandb.ai/links/subhavee2/5t7klnea |
