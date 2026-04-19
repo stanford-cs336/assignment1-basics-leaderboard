@@ -47,7 +47,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Alexandra Kim | 3.266 | https://api.wandb.ai/links/alexandrasuriya-ml/1nybxa71 | |
 | Adam Alhousiki | 3.2929 | [validation loss curve](./images/adam_alhousiki_leaderboard.png) | |
 | Jiaxin Fang | 3.32098 | https://api.wandb.ai/links/jiaxinf-stanford-university/gm6mft4d | |
-| Tim Chen | 3.335 | https://wandb.ai/chentim-sh-stanford-university/cs336-assignment1/reports/valid_loss-26-04-15-15-36-54---VmlldzoxNjU0NTU4Ng |
+| Tim Chen | 3.335 | https://wandb.ai/chentim-sh-stanford-university/cs336-assignment1/reports/valid_loss-26-04-15-15-36-54---VmlldzoxNjU0NTU4Ng | |
 | Eric Chen| 3.33875 | https://api.wandb.ai/links/3ricme-Stanford%20University/cimht73a | |
 | Sara Kothari | 3.36327 | https://api.wandb.ai/links/sarako-stanford-university/iop3e8la  | |
 | Tushar Dalmia | 3.36392 | https://api.wandb.ai/links/tdalmia-stanford-university/xxqbg3y0 | |
@@ -82,6 +82,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Shirley Yu | 4.045071189403534 | https://github.com/ShirleyU01/assignment1-basics-leaderboard/blob/main/images/shirleyu01.png
 | Kehan Li | 4.0811 | https://api.wandb.ai/links/keke77444-stanford-university/wtw9tufd | |
 | Jason Meng | 4.13 | https://api.wandb.ai/links/jiemeng-stanford-university/mx5r6f5c| |
+| James Liu | 4.33 | https://api.wandb.ai/links/jamesliu08-stanford-university/tu8vphu2 | |
 | naive baseline |            5.00 |      |                          Verified |
 
 <details markdown="1">
