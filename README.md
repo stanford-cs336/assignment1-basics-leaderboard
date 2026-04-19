@@ -33,7 +33,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 
 | Name           | Validation Loss | Link | Verification status (leave empty) |
 | :------------- | --------------: | ---: | --------------------------------: |
-| Thomas Li | 3.04207 | https://api.wandb.ai/links/bitset-stanford/jt70xzd4 | |
+| Thomas Li | 3.03543 | https://api.wandb.ai/links/bitset-stanford/3t8mclzd | |
 | Haoyue Xiao    | 3.1828          | https://api.wandb.ai/links/bill-xiao-stanford-university/w7sjmi5g | |
 | Tanush Talati | 3.2016 | https://api.wandb.ai/links/ttalati-stanford-university/hzi1nxpq | | 
 | Keshav Patel Keval | 3.20313 | https://api.wandb.ai/links/keshavpatel564-stanford-university/0mxcgf55 | | 
