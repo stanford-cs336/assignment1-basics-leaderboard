@@ -72,6 +72,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Jack Le | 3.727 | https://api.wandb.ai/links/jackle3-stanford-university/ih8c149i | | 
 | Andy Ouyang | 3.7707 | https://api.wandb.ai/links/andyou-stanford-university/sf7em5l2 | |
 | Yanzhen Shen | 3.8245 | [Validation loss curve](images/yanzhen_shen_learning_curve.png) | |
+| Josh Sanyal | 3.859 | https://api.wandb.ai/links/jsanyal-stanford-university/ce5za1n7 | |
 | Silin Du | 3.89 | https://api.wandb.ai/links/silindd3-stanford-university/qwlgxrea | |
 | James Cheng | 3.89 | https://wandb.ai/jzcheng-stanford-university/cs336-assignment1?nw=nwuserjzcheng | |
 | Karthik Vetrivel | 3.9011 | https://api.wandb.ai/links/kvetriv/2qsjtsvi | |
