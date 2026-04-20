@@ -33,16 +33,21 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 
 | Name           | Validation Loss | Link | Verification status (leave empty) |
 | :------------- | --------------: | ---: | --------------------------------: |
+| Thomas Li | 3.03543 | https://api.wandb.ai/links/bitset-stanford/3t8mclzd | |
+| Nick Rui | 3.10031 | https://api.wandb.ai/links/nickrui-stanford-university/9dhkgy43 | |
+| Aayush Gupta    | 3.1701          | https://api.wandb.ai/links/aayushg55/m48845t9 | |
 | Haoyue Xiao    | 3.1828          | https://api.wandb.ai/links/bill-xiao-stanford-university/w7sjmi5g | |
 | Tanush Talati | 3.2016 | https://api.wandb.ai/links/ttalati-stanford-university/hzi1nxpq | | 
 | Keshav Patel Keval | 3.20313 | https://api.wandb.ai/links/keshavpatel564-stanford-university/0mxcgf55 | | 
+| Ravenor Davion | 3.21173 | https://api.wandb.ai/links/rdavion-stanford/avz16xmq | |
 | Iddah Mlauzi | 3.21391 | https://api.wandb.ai/links/iddah/1ssym3ru | |
+| Jonas De Schouwer | 3.22656 | https://api.wandb.ai/links/jonasdeschouwer-university-of-oxford/l9sohwly | |
 | Max Liu        |          3.2266 | https://api.wandb.ai/links/maxliu01-stanford-university/4ml64dr6 | |
 | Daniel Lee | 3.2629 | https://api.wandb.ai/links/daniel-lee-ml/esat0gwl | |
 | Alexandra Kim | 3.266 | https://api.wandb.ai/links/alexandrasuriya-ml/1nybxa71 | |
 | Adam Alhousiki | 3.2929 | [validation loss curve](./images/adam_alhousiki_leaderboard.png) | |
 | Jiaxin Fang | 3.32098 | https://api.wandb.ai/links/jiaxinf-stanford-university/gm6mft4d | |
-| Tim Chen | 3.335 | https://wandb.ai/chentim-sh-stanford-university/cs336-assignment1/reports/valid_loss-26-04-15-15-36-54---VmlldzoxNjU0NTU4Ng |
+| Tim Chen | 3.335 | https://wandb.ai/chentim-sh-stanford-university/cs336-assignment1/reports/valid_loss-26-04-15-15-36-54---VmlldzoxNjU0NTU4Ng | |
 | Eric Chen| 3.33875 | https://api.wandb.ai/links/3ricme-Stanford%20University/cimht73a | |
 | Sara Kothari | 3.36327 | https://api.wandb.ai/links/sarako-stanford-university/iop3e8la  | |
 | Tushar Dalmia | 3.36392 | https://api.wandb.ai/links/tdalmia-stanford-university/xxqbg3y0 | |
@@ -53,6 +58,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Luisa Shimabucoro | 3.406 | https://api.wandb.ai/links/hashimoto-group/jr1f6dga | |
 | James Chen | 3.408 | https://api.wandb.ai/links/apple314/midc5m5v | |
 | Aniket Gupta        |          3.41563 | https://api.wandb.ai/links/aniketgupta-stanford-university/jszkfzky | |
+| Gorn (Nattaput) Namchittai |          3.4348  | https://api.wandb.ai/links/gorn41-stanford-university/jhwu57vq | |
 | Asanshay Gupta        |          3.4451 | https://api.wandb.ai/links/aniketgupta-stanford-university/jszkfzky | |
 | Jiaming Shen | 3.4462 | https://api.wandb.ai/links/shenjm-stanford-university/nan5mxa8 | |
 | Alex Bloom | 3.4625 | https://api.wandb.ai/links/alexpeterbloom-stanford-university/ni7vw60x | |
@@ -60,18 +66,24 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Yuheng Wu | 3.56 | [Validation loss curve](images/yuhengwu.png) | |
 | Naveen Kannan | 3.5763 | [loss](./images/kannan.png) | |
 | Subha Vadlamannati | 3.58 | https://api.wandb.ai/links/subhavee2/5t7klnea |
+| Nick Jiang | 3.617 | https://api.wandb.ai/links/nickj1413-uc-berkeley-electrical-engineering-computer-sc/uly1hqn9 |
 | Jenn Wang | 3.699 | https://api.wandb.ai/links/jennjwang/h29cc6ed | |
 | Ben O'Keefe | 3.7 | https://api.wandb.ai/links/bokeefe-stanford-university/y4uxoa0y | |
+| Jack Le | 3.727 | https://api.wandb.ai/links/jackle3-stanford-university/ih8c149i | | 
 | Andy Ouyang | 3.7707 | https://api.wandb.ai/links/andyou-stanford-university/sf7em5l2 | |
 | Yanzhen Shen | 3.8245 | [Validation loss curve](images/yanzhen_shen_learning_curve.png) | |
 | Silin Du | 3.89 | https://api.wandb.ai/links/silindd3-stanford-university/qwlgxrea | |
+| James Cheng | 3.89 | https://wandb.ai/jzcheng-stanford-university/cs336-assignment1?nw=nwuserjzcheng | |
 | Karthik Vetrivel | 3.9011 | https://api.wandb.ai/links/kvetriv/2qsjtsvi | |
+| Charles Ding | 3.93 | https://api.wandb.ai/links/cdingg/gs5goijp | |
 | Hercy Shen | 3.96 | https://api.wandb.ai/links/hercy-team/spilp0oo | |
+| Nicole Ma | 3.95821 | https://api.wandb.ai/links/nicolema-stanford-university/o5nr1rzs||
 | Alexa Tartaglini | 3.97 | https://api.wandb.ai/links/alexart/95ju0gsn | |
 | Riya Sinha | 3.97 | https://api.wandb.ai/links/riyavsinha/8x5tuclt | |
 | Shirley Yu | 4.045071189403534 | https://github.com/ShirleyU01/assignment1-basics-leaderboard/blob/main/images/shirleyu01.png
 | Kehan Li | 4.0811 | https://api.wandb.ai/links/keke77444-stanford-university/wtw9tufd | |
 | Jason Meng | 4.13 | https://api.wandb.ai/links/jiemeng-stanford-university/mx5r6f5c| |
+| James Liu | 4.33 | https://api.wandb.ai/links/jamesliu08-stanford-university/tu8vphu2 | |
 | naive baseline |            5.00 |      |                          Verified |
 
 <details markdown="1">
@@ -133,6 +145,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Hongyue Li | 3.79 | [Validation loss curve](./images/lhy.png)  |  |
 | atj10 |  3.83 | [Validation loss curve](./images/atj10_loss_curves.png)  |  |
 | Ryan Zhao | 3.84 | https://api.wandb.ai/links/knightasterial-stanforduniversity/j7z9j001 | |
+| Nishikar Paruchuri | 3.86 | https://api.wandb.ai/links/nparuch1-s/g2mufyfc| |
 | William Huang | 3.88 | https://api.wandb.ai/links/abcisosm/bgl39okf | |
 | jshenoy | 3.99 | https://api.wandb.ai/links/jayshenoy-stanford-university/shpznb3o | |
 | Arya Bakhtiar | 4.00 | https://drive.google.com/file/d/1nKmlqy1UJ6ZlmWjhZe-jTTN6h4Vn2vZK/view?usp=drive_link | |
