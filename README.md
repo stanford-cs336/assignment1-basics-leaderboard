@@ -76,6 +76,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | James Cheng | 3.89 | https://wandb.ai/jzcheng-stanford-university/cs336-assignment1?nw=nwuserjzcheng | |
 | Karthik Vetrivel | 3.9011 | https://api.wandb.ai/links/kvetriv/2qsjtsvi | |
 | Charles Ding | 3.93 | https://api.wandb.ai/links/cdingg/gs5goijp | |
+| Hercy Shen | 3.96 | https://api.wandb.ai/links/hercy-team/spilp0oo | |
 | Nicole Ma | 3.95821 | https://api.wandb.ai/links/nicolema-stanford-university/o5nr1rzs||
 | Alexa Tartaglini | 3.97 | https://api.wandb.ai/links/alexart/95ju0gsn | |
 | Riya Sinha | 3.97 | https://api.wandb.ai/links/riyavsinha/8x5tuclt | |
