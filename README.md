@@ -58,6 +58,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Luisa Shimabucoro | 3.406 | https://api.wandb.ai/links/hashimoto-group/jr1f6dga | |
 | James Chen | 3.408 | https://api.wandb.ai/links/apple314/midc5m5v | |
 | Aniket Gupta        |          3.41563 | https://api.wandb.ai/links/aniketgupta-stanford-university/jszkfzky | |
+| Andrew Park | 3.4203 | https://api.wandb.ai/links/andrewpark-stanford/pi8ebqzd | |
 | Gorn (Nattaput) Namchittai |          3.4348  | https://api.wandb.ai/links/gorn41-stanford-university/jhwu57vq | |
 | Asanshay Gupta        |          3.4451 | https://api.wandb.ai/links/aniketgupta-stanford-university/jszkfzky | |
 | Jiaming Shen | 3.4462 | https://api.wandb.ai/links/shenjm-stanford-university/nan5mxa8 | |
