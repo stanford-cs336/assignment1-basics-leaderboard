@@ -79,6 +79,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Nicole Ma | 3.95821 | https://api.wandb.ai/links/nicolema-stanford-university/o5nr1rzs||
 | Alexa Tartaglini | 3.97 | https://api.wandb.ai/links/alexart/95ju0gsn | |
 | Riya Sinha | 3.97 | https://api.wandb.ai/links/riyavsinha/8x5tuclt | |
+| Silky Singh | 3.99 | https://api.wandb.ai/links/silkysingh-stanford-university/yyd0idas | |
 | Shirley Yu | 4.045071189403534 | https://github.com/ShirleyU01/assignment1-basics-leaderboard/blob/main/images/shirleyu01.png
 | Kehan Li | 4.0811 | https://api.wandb.ai/links/keke77444-stanford-university/wtw9tufd | |
 | Jason Meng | 4.13 | https://api.wandb.ai/links/jiemeng-stanford-university/mx5r6f5c| |
