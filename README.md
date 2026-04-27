@@ -224,7 +224,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | William Huang | 3.88 | https://api.wandb.ai/links/abcisosm/bgl39okf|
 | jshenoy | 3.99 | https://api.wandb.ai/links/jayshenoy-stanford-university/shpznb3o|
 | Arya Bakhtiar | 4.00 | https://drive.google.com/file/d/1nKmlqy1UJ6ZlmWjhZe-jTTN6h4Vn2vZK/view?usp=drive_link|
-| Mark Liu | 4.22 | https://wandb.ai/markliu-hotblaz/CS336%20Assignment%201%20/reports/Untitled-Report--VmlldzoxNjY4NzQxMg|
+| Mark Liu | 4.21 | https://wandb.ai/markliu-hotblaz/CS336%20Assignment%201%20/reports/Untitled-Report--VmlldzoxNjY4NzQxMg|
 | naive baseline |            5.00 |      |                          Verified |
 
 </details>
