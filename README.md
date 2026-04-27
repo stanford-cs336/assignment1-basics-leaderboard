@@ -1,0 +1,230 @@
+# CS336 Spring 2026 Assignment 1 (Basics) Leaderboard
+
+> [!NOTE]
+> If you're a non-Stanford student and interested in submitting to the leaderboard, please create a pull request adding your result to the **second** table. To remain in the top 5, your submission must be verified, for which you should invite `marcelroed` to a minimal repo containing a uv project with `pyproject.toml`, `uv.lock` and `main.py`. Your script should be able to be reproduced on a single B200 by running `uv run main.py`.
+
+To submit to the leaderboard, submit a pull request that adds your results to the Markdown table below. The table should be sorted by increasing loss.
+
+Note that your submission can run for at most 45 minutes on a single B200, and that you may only use the OpenWebText training dataset that we provide.
+The code must clearly be your own work, and you can't use external implementations outside of what we explicitly allow in the assignment writeup.
+Any use of AI or external code copying will result in a disqualification.
+
+The top 3 submissions will receive a prize at the end of the quarter, and the external top 3 submissions will receive a T-shirt.
+To make this fair, we will reorder the top 5 scoring students based on our reproduced training runs.
+**Make sure you save a snapshot of your best code so it can be reproduced by us!**
+We will reach out to the top few students after results have stabilized.
+Leading submissions that cannot be verified or are invalid will be removed.
+
+In your pull request description, you should include:
+
+- The final validation loss that was recorded.
+- A link to an associated learning curve that clearly shows a wallclock-time x-axis that is less than 45 minutes.
+You may either upload an image directly to the repo (use the [./images](./images)) folder or link to a publicly-viewable plot from a service like Weights and Biases. Make sure the Weights and Biases link is publicly available by opening it in a private/incognito window.
+- A description of what you did.
+
+We are considering adding an automated validation loss check, considering it's easy to measure your metrics wrong in a way that will place you higher on the leaderboard than you should be.
+If your loss seems too good to be true, make sure to validate your training and valdation datasets are correct, by checking decoded samples, and making sure your vocab is correct with 32k tokens.
+It should not be easy to get a validation loss better than 3.3.
+We validate at context length 512, so your reported validation loss should also be calculated with this setting.
+
+## OpenWebText (subsample) validation loss leaderboard
+
+Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
+
+| Name           | Validation Loss | Link | Verification status (leave empty) |
+| :------------- | --------------: | ---: | --------------------------------: |
+| Thomas Li | 3.03543 | https://api.wandb.ai/links/bitset-stanford/3t8mclzd | |
+| Nick Rui | 3.10031 | https://api.wandb.ai/links/nickrui-stanford-university/9dhkgy43 | |
+| Aayush Gupta    | 3.1701          | https://api.wandb.ai/links/aayushg55/m48845t9 | |
+| Haoyue Xiao    | 3.1828          | https://api.wandb.ai/links/bill-xiao-stanford-university/w7sjmi5g | |
+| Tanush Talati | 3.2016 | https://api.wandb.ai/links/ttalati-stanford-university/hzi1nxpq | | 
+| Keshav Patel Keval | 3.20313 | https://api.wandb.ai/links/keshavpatel564-stanford-university/0mxcgf55 | | 
+| Ravenor Davion | 3.21173 | https://api.wandb.ai/links/rdavion-stanford/avz16xmq | |
+| Iddah Mlauzi | 3.21391 | https://api.wandb.ai/links/iddah/1ssym3ru | |
+| Jonas De Schouwer | 3.22656 | https://api.wandb.ai/links/jonasdeschouwer-university-of-oxford/l9sohwly | |
+| Max Liu        |          3.2266 | https://api.wandb.ai/links/maxliu01-stanford-university/4ml64dr6 | |
+| Daniel Lee | 3.2629 | https://api.wandb.ai/links/daniel-lee-ml/esat0gwl | |
+| Alexandra Kim | 3.266 | https://api.wandb.ai/links/alexandrasuriya-ml/1nybxa71 | |
+| Adam Alhousiki | 3.2929 | [validation loss curve](./images/adam_alhousiki_leaderboard.png) | |
+| Jiaxin Fang | 3.32098 | https://api.wandb.ai/links/jiaxinf-stanford-university/gm6mft4d | |
+| Tim Chen | 3.335 | https://wandb.ai/chentim-sh-stanford-university/cs336-assignment1/reports/valid_loss-26-04-15-15-36-54---VmlldzoxNjU0NTU4Ng | |
+| Eric Chen| 3.33875 | https://api.wandb.ai/links/3ricme-Stanford%20University/cimht73a | |
+| Sara Kothari | 3.36327 | https://api.wandb.ai/links/sarako-stanford-university/iop3e8la  | |
+| Tushar Dalmia | 3.36392 | https://api.wandb.ai/links/tdalmia-stanford-university/xxqbg3y0 | |
+| Javier Nieto   |          3.37   | https://api.wandb.ai/links/jgnieto-stanford-university/rvnadego | |
+| Tushar Aggarwal | 3.37708 | https://api.wandb.ai/links/tushar56/ogqjgcsl | |
+| Andy Dimnaku   |  3.3995         | https://api.wandb.ai/links/dimnaku-stanford-university/ffvj5zy8 | |
+| Yufei Liu | 3.402 | https://api.wandb.ai/links/yf6-stanford-university/yus0uve4 | |
+| Luisa Shimabucoro | 3.406 | https://api.wandb.ai/links/hashimoto-group/jr1f6dga | |
+| James Chen | 3.408 | https://api.wandb.ai/links/apple314/midc5m5v | |
+| Aniket Gupta        |          3.41563 | https://api.wandb.ai/links/aniketgupta-stanford-university/jszkfzky | |
+| Gorn (Nattaput) Namchittai |          3.4348  | https://api.wandb.ai/links/gorn41-stanford-university/jhwu57vq | |
+| Asanshay Gupta        |          3.4451 | https://api.wandb.ai/links/aniketgupta-stanford-university/jszkfzky | |
+| Jiaming Shen | 3.4462 | https://api.wandb.ai/links/shenjm-stanford-university/nan5mxa8 | |
+| Alex Bloom | 3.4625 | https://api.wandb.ai/links/alexpeterbloom-stanford-university/ni7vw60x | |
+| Insop Song | 3.546 | https://api.wandb.ai/links/insop-song2/34j0x6dk | |
+| Yuheng Wu | 3.56 | [Validation loss curve](images/yuhengwu.png) | |
+| Naveen Kannan | 3.5763 | [loss](./images/kannan.png) | |
+| Subha Vadlamannati | 3.58 | https://api.wandb.ai/links/subhavee2/5t7klnea |
+| Nick Jiang | 3.617 | https://api.wandb.ai/links/nickj1413-uc-berkeley-electrical-engineering-computer-sc/uly1hqn9 |
+| Jenn Wang | 3.699 | https://api.wandb.ai/links/jennjwang/h29cc6ed | |
+| Ben O'Keefe | 3.7 | https://api.wandb.ai/links/bokeefe-stanford-university/y4uxoa0y | |
+| Jack Le | 3.727 | https://api.wandb.ai/links/jackle3-stanford-university/ih8c149i | | 
+| Andy Ouyang | 3.7707 | https://api.wandb.ai/links/andyou-stanford-university/sf7em5l2 | |
+| Yanzhen Shen | 3.8245 | [Validation loss curve](images/yanzhen_shen_learning_curve.png) | |
+| Silin Du | 3.89 | https://api.wandb.ai/links/silindd3-stanford-university/qwlgxrea | |
+| James Cheng | 3.89 | https://wandb.ai/jzcheng-stanford-university/cs336-assignment1?nw=nwuserjzcheng | |
+| Karthik Vetrivel | 3.9011 | https://api.wandb.ai/links/kvetriv/2qsjtsvi | |
+| Charles Ding | 3.93 | https://api.wandb.ai/links/cdingg/gs5goijp | |
+| Nicole Ma | 3.95821 | https://api.wandb.ai/links/nicolema-stanford-university/o5nr1rzs||
+| Alexa Tartaglini | 3.97 | https://api.wandb.ai/links/alexart/95ju0gsn | |
+| Riya Sinha | 3.97 | https://api.wandb.ai/links/riyavsinha/8x5tuclt | |
+| Shirley Yu | 4.045071189403534 | https://github.com/ShirleyU01/assignment1-basics-leaderboard/blob/main/images/shirleyu01.png
+| Kehan Li | 4.0811 | https://api.wandb.ai/links/keke77444-stanford-university/wtw9tufd | |
+| Jason Meng | 4.13 | https://api.wandb.ai/links/jiemeng-stanford-university/mx5r6f5c| |
+| James Liu | 4.33 | https://api.wandb.ai/links/jamesliu08-stanford-university/tu8vphu2 | |
+| naive baseline |            5.00 |      |                          Verified |
+
+<details markdown="1">
+<summary>Stanford class leaderboard (Spring 2025) - 1.5 H100 hours</summary>
+
+| Name           | Validation Loss | Link | Verification status (leave empty) |
+| :------------- | --------------: | ---: | --------------------------------: |
+| Herman Brunborg | 3.0781| https://api.wandb.ai/links/brunborg-cs336/igorg097 | Verified |
+| Stephen Ge | 3.1460 | https://api.wandb.ai/links/stephenge/cc9sewxe | Verified |
+| Brandon Snider | 3.1658 | https://api.wandb.ai/links/brandon-snider-stanford-university/v8n2t4py | Verified |
+| Joe Li | 3.19406 | [Validation loss curve](images/joe_better_muon.png)
+| Tejas Narayanan | 3.22 | https://api.wandb.ai/links/tejas-narayanan/n8itavzy | |
+| Hermann Kumbong | 3.22 | https://api.wandb.ai/links/hermannk/iwrvwesk | |
+| Ayush Agrawal | 3.261 | https://api.wandb.ai/links/ayushag2410/mcbnccjr | |
+| Puheng Li | 3.268 | https://api.wandb.ai/links/puhengli-stanford-university/s1cokosj | |
+| Hongyue Li | 3.27| [Validation loss curve](images/hongyue_li.png) | |
+| Christine Ye | 3.283 | https://api.wandb.ai/links/christineye/dhqwbfqa | |
+| I-han Lai| 3.29|https://wandb.ai/ihan-lai0924-stanford-university/cs336_hw1/reports/owt-validation-loss-25-04-18-01-16-13---VmlldzoxMjM1MjYwNA||
+| Prateek | 3.29 | https://wandb.ai/stanfordcs/OWT%20Experiments/reports/--VmlldzoxMjM2NjQ2MQ | |
+| Pinlin [Calvin] Xu | 3.29688 | https://api.wandb.ai/links/pinlinxu-lab/rv9m2oqq | |
+| Varun Desai | 3.298 | https://wandb.ai/vdesai10/owt_leaderboard/reports/Final-Leaderboard-Submission-Varun--VmlldzoxMjM2NjQ3NA?accessToken=ylvoskxok1cnhegx1i4gziphtc5eih16ylza2buzy13y1uoll58h7jhndr4dviq5 | |
+| Michael Bereket | 3.30 | https://api.wandb.ai/links/mbereket/srr1jc5b | |
+| Jack Hsieh | 3.3001 | https://wandb.ai/jackellishsieh-stanford-university/cs336-assignment1/runs/ohdb5e0v/panel/mc4jbfhrm?nw=nwuserjackellishsieh | |
+| Suze van Adrichem | 3.3134 | https://api.wandb.ai/links/suzevana/nfzefh73 | |
+| Chenchen Gu | 3.314 | https://api.wandb.ai/links/cygu/2cwahtxu | |
+| Ashish Rao | 3.330 | https://api.wandb.ai/links/aprao/v79845cv | |
+| Arnuv Tandon | 3.33213 | https://wandb.ai/arnuv-tandon-stanford-university/cs336/reports/CS-336-Leaderboard--VmlldzoxMjM2NDY5OA?accessToken=eh8nugwo4d6zvq7sgajuni8892vfoomcp7k0klbqzkqrzj6h9ex789r38u76myrh | |
+| Mehmet Hamza Erol | 3.353 | https://api.wandb.ai/links/mhamzaerol-stanford-university/hcjj4l7r | |
+| Divija Hasteer | 3.35628 | [Validation Loss Curve](images/dhasteer_leaderboard_sub.png) | |
+| Christopher Chou | 3.41 | https://api.wandb.ai/links/babychousr-stanford-university/ed9fu89s  | |
+| Milan Rohatgi | 3.41 | [[https://api.wandb.ai/links/milanrohatgi/zuet4nhc](https://api.wandb.ai/links/milanrohatgi/abxkie8w)](https://api.wandb.ai/links/milanrohatgi/lq28xt0w) | |
+| Katherine Li | 3.418 | https://api.wandb.ai/links/kathli/rmglb4ts |
+| Harshvardhan Agarwal |      3.42 | https://api.wandb.ai/links/tokenization/dvezrvbp |  |
+| Ramgopal Venkateswaran | 3.44    | https://api.wandb.ai/links/ramvenkat98/cvrfl2pa  |  |
+| Ken Liu | 3.47 | https://api.wandb.ai/links/kenziyuliu/3z1f54qp |  |
+| Kaitlyn Wang | 3.50 | https://api.wandb.ai/links/kaitwang-stanford-university/wgigpj6h |  |
+| Sai Konkimalla | 3.51 | https://api.wandb.ai/links/sai-konk/yf8ashf0 |  |
+| Radostin Cholakov | 3.55 | https://api.wandb.ai/links/radi-cho/mrr13237 |  |
+| Sally Zhu | 3.55 | https://api.wandb.ai/links/sallyzhu-stanford-university/s6sd95zh |
+| Ziqing Huang | 3.55 | https://api.wandb.ai/links/tyltto/505dcz72 | |
+| Ayush Alag | 3.56 | https://api.wandb.ai/links/ayushalag1-stanford-university/z56avu3c | |
+| Kyler Wang | 3.57 | https://api.wandb.ai/links/kylerwang-stanford-university/5znjvf3e | |
+| Adam Zhao | 3.58 | https://api.wandb.ai/links/zhao1adam-stanford-university/5zgjjs1h |
+| Aryaman Arora | 3.61 | https://wandb.ai/aryamanarora/cs336/runs/39skvnwk?nw=t6wb3iafj2q |
+| Josiah Wong | 3.61 | [Validation loss curve](https://wandb.ai/cremebrule/cs336_leaderboard/reports/CS336-Assignment-1-Initial-Leaderboard-Submission--VmlldzoxMjMxMjU1MA) | |
+| orrzohar       |            3.61 |https://api.wandb.ai/links/marvl/xpyqen6p|
+| Prateek Varshney | 3.62 | https://api.wandb.ai/links/stanfordcs/jlkmfbgj |
+| Varun Desai | 3.63 | https://api.wandb.ai/links/vdesai10/all5y62k | |
+| Karthik Dharmarajan | 3.67 | https://wandb.ai/kdharmarajan/cs336-asst1/reports/Validation-Loss-25-04-18-20-41-23---VmlldzoxMjM2NDk1OQ | |
+| Shiny Weng |      3.67 | https://api.wandb.ai/links/shinyweng-stanford-university/xt471xol |  |
+| Harshit Joshi | 3.69 | https://wandb.ai/josharshit-stanford-university/cs336-basics/reports/CS-336--VmlldzoxMjM2NDcxMQ?accessToken=26yom3e3gznkpvg2yjispit1vhf4thw15i3xbj4hfckynojj0vc2g96bo7uedqec | |
+| Harry Shin | 3.70 | https://api.wandb.ai/links/dh2shin2-stanford-university/jueu6en8 | |
+| Angikar Ghosal | 3.71 | [Validation loss curve](./images/angikar_owt_bestvalidationloss.png) | |
+| Justin Wu   | 3.71 | https://api.wandb.ai/links/justin-wu/9jrz2aep | |
+| Harry Shin | 3.70 | https://api.wandb.ai/links/dh2shin2-stanford-university/jueu6en8 | |
+| Harshit Joshi | 3.69 | https://wandb.ai/josharshit-stanford-university/cs336-basics/reports/CS-336--VmlldzoxMjM2NDcxMQ?accessToken=26yom3e3gznkpvg2yjispit1vhf4thw15i3xbj4hfckynojj0vc2g96bo7uedqec | |
+| Angela Liu | 3.75 | https://api.wandb.ai/links/aliu917/fdx2pwqa  |  |
+| Herumb Shandilya | 3.76 | https://wandb.ai/krypticmouse/cs336-basics/runs/1zl172ay?nw=nwuserkrypticmouse | |
+| Hongyue Li | 3.79 | [Validation loss curve](./images/lhy.png)  |  |
+| atj10 |  3.83 | [Validation loss curve](./images/atj10_loss_curves.png)  |  |
+| Ryan Zhao | 3.84 | https://api.wandb.ai/links/knightasterial-stanforduniversity/j7z9j001 | |
+| Nishikar Paruchuri | 3.86 | https://api.wandb.ai/links/nparuch1-s/g2mufyfc| |
+| William Huang | 3.88 | https://api.wandb.ai/links/abcisosm/bgl39okf | |
+| jshenoy | 3.99 | https://api.wandb.ai/links/jayshenoy-stanford-university/shpznb3o | |
+| Arya Bakhtiar | 4.00 | https://drive.google.com/file/d/1nKmlqy1UJ6ZlmWjhZe-jTTN6h4Vn2vZK/view?usp=drive_link | |
+| naive baseline |            5.00 |      |                          Verified |
+
+</details>
+
+<details markdown="1">
+<summary>Global leaderboard (2025) - 1.5 H100 hours</summary>
+
+| Name           | Validation Loss | Link |
+| :------------- | --------------: | ---: |
+| Herman Brunborg | 3.01172| https://api.wandb.ai/links/brunborg-cs336/igorg097 |
+| Vegard Skogstad | 3.0158 | https://wandb.ai/skogstadv-hobbyist/H100-sxm5-OWT-testruns/reports/Leaderboard-submission--VmlldzoxNTQ3NTIwMg |
+| Weijian [Viko] Xie | 3.0209 | https://api.wandb.ai/links/viko/axveizyy |
+| Jorge Vanco | 3.03066 | https://api.wandb.ai/links/jorgev/qa9to62v |
+| Vilhelm Toivonen | 3.03196| https://api.wandb.ai/links/vilhelm-toivonen-helsinki-university/ey73mx97 |
+| Brandon Snider | 3.10938 | https://api.wandb.ai/links/brandon-snider-stanford-university/v8n2t4py |
+| Stephen Ge | 3.11142 | https://api.wandb.ai/links/stephenge/cc9sewxe |
+| Jorge Vanco | 3.1371| https://api.wandb.ai/links/jorgev/qa9to62v |
+| Joe Li | 3.19406 | [Validation loss curve](images/joe_better_muon.png)
+| George Grigorev | 3.211 | https://api.wandb.ai/links/thepowerfuldeez/4cxlverq|
+| Tejas Narayanan | 3.22 | https://api.wandb.ai/links/tejas-narayanan/n8itavzy|
+| Hermann Kumbong | 3.22 | https://api.wandb.ai/links/hermannk/iwrvwesk|
+| Ayush Agrawal | 3.261 | https://api.wandb.ai/links/ayushag2410/mcbnccjr|
+| Puheng Li | 3.268 | https://api.wandb.ai/links/puhengli-stanford-university/s1cokosj|
+| Hongyue Li | 3.27| [Validation loss curve](images/hongyue_li.png)|
+| Christine Ye | 3.283 | https://api.wandb.ai/links/christineye/dhqwbfqa|
+| Jiali Yang | 3.28434 | https://api.wandb.ai/links/1021601788-east-china-normal-university/bkrjzfys|
+| I-han Lai| 3.29|https://wandb.ai/ihan-lai0924-stanford-university/cs336_hw1/reports/owt-validation-loss-25-04-18-01-16-13---VmlldzoxMjM1MjYwNA||
+| Prateek | 3.29 | https://wandb.ai/stanfordcs/OWT%20Experiments/reports/--VmlldzoxMjM2NjQ2MQ|
+| Pinlin [Calvin] Xu | 3.29688 | https://api.wandb.ai/links/pinlinxu-lab/rv9m2oqq|
+| Varun Desai | 3.298 | https://wandb.ai/vdesai10/owt_leaderboard/reports/Final-Leaderboard-Submission-Varun--VmlldzoxMjM2NjQ3NA?accessToken=ylvoskxok1cnhegx1i4gziphtc5eih16ylza2buzy13y1uoll58h7jhndr4dviq5|
+| Michael Bereket | 3.30 | https://api.wandb.ai/links/mbereket/srr1jc5b|
+| Jack Hsieh | 3.3001 | https://wandb.ai/jackellishsieh-stanford-university/cs336-assignment1/runs/ohdb5e0v/panel/mc4jbfhrm?nw=nwuserjackellishsieh|
+| Suze van Adrichem | 3.3134 | https://api.wandb.ai/links/suzevana/nfzefh73|
+| Chenchen Gu | 3.314 | https://api.wandb.ai/links/cygu/2cwahtxu|
+| Ashish Rao | 3.330 | https://api.wandb.ai/links/aprao/v79845cv|
+| Arnuv Tandon | 3.33213 | https://wandb.ai/arnuv-tandon-stanford-university/cs336/reports/CS-336-Leaderboard--VmlldzoxMjM2NDY5OA?accessToken=eh8nugwo4d6zvq7sgajuni8892vfoomcp7k0klbqzkqrzj6h9ex789r38u76myrh|
+| Dong Linkang | 3.33508 | https://api.wandb.ai/links/donglinkang2021-beijing-institute-of-technology/yjlpxerm|
+| Frank Latos | 3.3506 | https://api.wandb.ai/links/flatos-duo-systems-inc-/c7e7ea70|
+| Mehmet Hamza Erol | 3.353 | https://api.wandb.ai/links/mhamzaerol-stanford-university/hcjj4l7r|
+| Divija Hasteer | 3.35628 | [Validation Loss Curve](images/dhasteer_leaderboard_sub.png)|
+| Christopher Chou | 3.41 | https://api.wandb.ai/links/babychousr-stanford-university/ed9fu89s |
+| Milan Rohatgi | 3.41 | [[https://api.wandb.ai/links/milanrohatgi/zuet4nhc](https://api.wandb.ai/links/milanrohatgi/abxkie8w)](https://api.wandb.ai/links/milanrohatgi/lq28xt0w)|
+| Katherine Li | 3.418 | https://api.wandb.ai/links/kathli/rmglb4ts |
+| Harshvardhan Agarwal |      3.42 | https://api.wandb.ai/links/tokenization/dvezrvbp |  |
+| Ramgopal Venkateswaran | 3.44    | https://api.wandb.ai/links/ramvenkat98/cvrfl2pa  |  |
+| Ken Liu | 3.47 | https://api.wandb.ai/links/kenziyuliu/3z1f54qp |  |
+| Kaitlyn Wang | 3.50 | https://api.wandb.ai/links/kaitwang-stanford-university/wgigpj6h |  |
+| Sai Konkimalla | 3.51 | https://api.wandb.ai/links/sai-konk/yf8ashf0 |  |
+| Radostin Cholakov | 3.55 | https://api.wandb.ai/links/radi-cho/mrr13237 |  |
+| Sally Zhu | 3.55 | https://api.wandb.ai/links/sallyzhu-stanford-university/s6sd95zh |
+| Ziqing Huang | 3.55 | https://api.wandb.ai/links/tyltto/505dcz72|
+| Ayush Alag | 3.56 | https://api.wandb.ai/links/ayushalag1-stanford-university/z56avu3c|
+| Kyler Wang | 3.57 | https://api.wandb.ai/links/kylerwang-stanford-university/5znjvf3e|
+| Adam Zhao | 3.58 | https://api.wandb.ai/links/zhao1adam-stanford-university/5zgjjs1h |
+| Aryaman Arora | 3.61 | https://wandb.ai/aryamanarora/cs336/runs/39skvnwk?nw=t6wb3iafj2q |
+| Josiah Wong | 3.61 | [Validation loss curve](https://wandb.ai/cremebrule/cs336_leaderboard/reports/CS336-Assignment-1-Initial-Leaderboard-Submission--VmlldzoxMjMxMjU1MA)|
+| orrzohar       |            3.61 |https://api.wandb.ai/links/marvl/xpyqen6p|
+| Prateek Varshney | 3.62 | https://api.wandb.ai/links/stanfordcs/jlkmfbgj |
+| Varun Desai | 3.63 | https://api.wandb.ai/links/vdesai10/all5y62k|
+| Karthik Dharmarajan | 3.67 | https://wandb.ai/kdharmarajan/cs336-asst1/reports/Validation-Loss-25-04-18-20-41-23---VmlldzoxMjM2NDk1OQ|
+| Shiny Weng |      3.67 | https://api.wandb.ai/links/shinyweng-stanford-university/xt471xol |  |
+| Carl Gieringer | 3.69 | https://api.wandb.ai/links/carl-gieringer-self/9lrupho1|
+| Harshit Joshi | 3.69 | https://wandb.ai/josharshit-stanford-university/cs336-basics/reports/CS-336--VmlldzoxMjM2NDcxMQ?accessToken=26yom3e3gznkpvg2yjispit1vhf4thw15i3xbj4hfckynojj0vc2g96bo7uedqec|
+| Harry Shin | 3.70 | https://api.wandb.ai/links/dh2shin2-stanford-university/jueu6en8|
+| Angikar Ghosal | 3.71 | [Validation loss curve](./images/angikar_owt_bestvalidationloss.png)|
+| Justin Wu   | 3.71 | https://api.wandb.ai/links/justin-wu/9jrz2aep|
+| Harry Shin | 3.70 | https://api.wandb.ai/links/dh2shin2-stanford-university/jueu6en8|
+| Harshit Joshi | 3.69 | https://wandb.ai/josharshit-stanford-university/cs336-basics/reports/CS-336--VmlldzoxMjM2NDcxMQ?accessToken=26yom3e3gznkpvg2yjispit1vhf4thw15i3xbj4hfckynojj0vc2g96bo7uedqec|
+| Angela Liu | 3.75 | https://api.wandb.ai/links/aliu917/fdx2pwqa  |  |
+| Herumb Shandilya | 3.76 | https://wandb.ai/krypticmouse/cs336-basics/runs/1zl172ay?nw=nwuserkrypticmouse|
+| Hongyue Li | 3.79 | [Validation loss curve](./images/lhy.png)  |  |
+| atj10 |  3.83 | [Validation loss curve](./images/atj10_loss_curves.png)  |  |
+| Ryan Zhao | 3.84 | https://api.wandb.ai/links/knightasterial-stanforduniversity/j7z9j001|
+| William Huang | 3.88 | https://api.wandb.ai/links/abcisosm/bgl39okf|
+| jshenoy | 3.99 | https://api.wandb.ai/links/jayshenoy-stanford-university/shpznb3o|
+| Arya Bakhtiar | 4.00 | https://drive.google.com/file/d/1nKmlqy1UJ6ZlmWjhZe-jTTN6h4Vn2vZK/view?usp=drive_link|
+| Mark Liu | 4.22 | https://wandb.ai/markliu-hotblaz/CS336%20Assignment%201%20/reports/Untitled-Report--VmlldzoxNjY4NzQxMg|
+| naive baseline |            5.00 |      |                          Verified |
+
+</details>
