@@ -112,6 +112,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Arnuv Tandon | 3.33213 | https://wandb.ai/arnuv-tandon-stanford-university/cs336/reports/CS-336-Leaderboard--VmlldzoxMjM2NDY5OA?accessToken=eh8nugwo4d6zvq7sgajuni8892vfoomcp7k0klbqzkqrzj6h9ex789r38u76myrh | |
 | Mehmet Hamza Erol | 3.353 | https://api.wandb.ai/links/mhamzaerol-stanford-university/hcjj4l7r | |
 | Divija Hasteer | 3.35628 | [Validation Loss Curve](images/dhasteer_leaderboard_sub.png) | |
+| Ria Garg | 3.38108 | https://api.wandb.ai/links/riastanford/ujir6wmx | |
 | Christopher Chou | 3.41 | https://api.wandb.ai/links/babychousr-stanford-university/ed9fu89s  | |
 | Milan Rohatgi | 3.41 | [[https://api.wandb.ai/links/milanrohatgi/zuet4nhc](https://api.wandb.ai/links/milanrohatgi/abxkie8w)](https://api.wandb.ai/links/milanrohatgi/lq28xt0w) | |
 | Katherine Li | 3.418 | https://api.wandb.ai/links/kathli/rmglb4ts |
