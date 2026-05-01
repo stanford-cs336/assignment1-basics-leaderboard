@@ -35,6 +35,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | :------------- | --------------: | ---: | --------------------------------: |
 | Thomas Li | 3.03543 | https://api.wandb.ai/links/bitset-stanford/3t8mclzd | |
 | Nick Rui | 3.10031 | https://api.wandb.ai/links/nickrui-stanford-university/9dhkgy43 | |
+| Abraham Yeung    | 3.16947          | https://api.wandb.ai/links/ayeung1616-stanford-university/yu0oyrwi | |
 | Aayush Gupta    | 3.1701          | https://api.wandb.ai/links/aayushg55/m48845t9 | |
 | Haoyue Xiao    | 3.1828          | https://api.wandb.ai/links/bill-xiao-stanford-university/w7sjmi5g | |
 | Tanush Talati | 3.2016 | https://api.wandb.ai/links/ttalati-stanford-university/hzi1nxpq | | 
