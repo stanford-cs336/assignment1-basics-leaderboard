@@ -67,6 +67,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Naveen Kannan | 3.5763 | [loss](./images/kannan.png) | |
 | Subha Vadlamannati | 3.58 | https://api.wandb.ai/links/subhavee2/5t7klnea |
 | Nick Jiang | 3.617 | https://api.wandb.ai/links/nickj1413-uc-berkeley-electrical-engineering-computer-sc/uly1hqn9 |
+| Shiye Su        |          3.69 | https://api.wandb.ai/links/ssu53/rui5hmcf | |
 | Jenn Wang | 3.699 | https://api.wandb.ai/links/jennjwang/h29cc6ed | |
 | Ben O'Keefe | 3.7 | https://api.wandb.ai/links/bokeefe-stanford-university/y4uxoa0y | |
 | Jack Le | 3.727 | https://api.wandb.ai/links/jackle3-stanford-university/ih8c149i | | 
