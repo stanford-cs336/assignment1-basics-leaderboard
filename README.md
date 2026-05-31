@@ -222,6 +222,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | atj10 |  3.83 | [Validation loss curve](./images/atj10_loss_curves.png)  |  |
 | Ryan Zhao | 3.84 | https://api.wandb.ai/links/knightasterial-stanforduniversity/j7z9j001|
 | William Huang | 3.88 | https://api.wandb.ai/links/abcisosm/bgl39okf|
+| eiiiy24 | 3.9005 | https://api.wandb.ai/links/eiiiy24-sun-yat-sen-university/yd17gy76 |
 | jshenoy | 3.99 | https://api.wandb.ai/links/jayshenoy-stanford-university/shpznb3o|
 | Arya Bakhtiar | 4.00 | https://drive.google.com/file/d/1nKmlqy1UJ6ZlmWjhZe-jTTN6h4Vn2vZK/view?usp=drive_link|
 | naive baseline |            5.00 |      |                          Verified |
