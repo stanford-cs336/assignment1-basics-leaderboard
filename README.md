@@ -219,7 +219,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Angela Liu | 3.75 | https://api.wandb.ai/links/aliu917/fdx2pwqa  |  |
 | Herumb Shandilya | 3.76 | https://wandb.ai/krypticmouse/cs336-basics/runs/1zl172ay?nw=nwuserkrypticmouse|
 | Hongyue Li | 3.79 | [Validation loss curve](./images/lhy.png)  |  |
-| tiny-star3 | 3.79181 | https://api.wandb.ai/links/tiny_star3/xnx2trnp  |  |
+| tiny-star3 | 3.79181 | https://api.wandb.ai/links/tiny_star3/ke19xj3z  |  |
 | atj10 |  3.83 | [Validation loss curve](./images/atj10_loss_curves.png)  |  |
 | Ryan Zhao | 3.84 | https://api.wandb.ai/links/knightasterial-stanforduniversity/j7z9j001|
 | William Huang | 3.88 | https://api.wandb.ai/links/abcisosm/bgl39okf|
