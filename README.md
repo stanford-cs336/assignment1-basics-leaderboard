@@ -54,6 +54,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Javier Nieto   |          3.37   | https://api.wandb.ai/links/jgnieto-stanford-university/rvnadego | |
 | Tushar Aggarwal | 3.37708 | https://api.wandb.ai/links/tushar56/ogqjgcsl | |
 | Andy Dimnaku   |  3.3995         | https://api.wandb.ai/links/dimnaku-stanford-university/ffvj5zy8 | |
+| Alessandro Solbiati | 3.39983 | https://wandb.ai/lessandro/cs336/reports/Loss-Validation-26-06-21-22-23-46---VmlldzoxNzI5ODQwMw | |
 | Yufei Liu | 3.402 | https://api.wandb.ai/links/yf6-stanford-university/yus0uve4 | |
 | Luisa Shimabucoro | 3.406 | https://api.wandb.ai/links/hashimoto-group/jr1f6dga | |
 | James Chen | 3.408 | https://api.wandb.ai/links/apple314/midc5m5v | |
