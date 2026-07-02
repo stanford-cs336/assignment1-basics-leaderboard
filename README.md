@@ -100,6 +100,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Puheng Li | 3.268 | https://api.wandb.ai/links/puhengli-stanford-university/s1cokosj | |
 | Hongyue Li | 3.27| [Validation loss curve](images/hongyue_li.png) | |
 | Christine Ye | 3.283 | https://api.wandb.ai/links/christineye/dhqwbfqa | |
+| Pratham Aditya Salhotra | 3.28324 | https://wandb.ai/prathamadityasalhotra-self/cs336-owt_July02_1/reports/Assignment-1-Submission-report--VmlldzoxNzQwMTM1NA||
 | I-han Lai| 3.29|https://wandb.ai/ihan-lai0924-stanford-university/cs336_hw1/reports/owt-validation-loss-25-04-18-01-16-13---VmlldzoxMjM1MjYwNA||
 | Prateek | 3.29 | https://wandb.ai/stanfordcs/OWT%20Experiments/reports/--VmlldzoxMjM2NjQ2MQ | |
 | Pinlin [Calvin] Xu | 3.29688 | https://api.wandb.ai/links/pinlinxu-lab/rv9m2oqq | |
