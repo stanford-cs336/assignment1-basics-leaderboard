@@ -85,6 +85,12 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | James Liu | 4.33 | https://api.wandb.ai/links/jamesliu08-stanford-university/tu8vphu2 | |
 | naive baseline |            5.00 |      |                          Verified |
 
+Global leaderboard (Spring 2026) - 0.75 B200 hours
+
+| Name           | Validation Loss | Link | Verification status (leave empty) |
+| :------------- | --------------: | ---: | --------------------------------: |
+| Xuan Haoran | 3.733 | https://wandb.ai/haoranxuan-airwallex/cs336-assignment1-basics-clean/reports/CS336-Assignment1--VmlldzoxNzUwNDE2Mw | |
+
 <details markdown="1">
 <summary>Stanford class leaderboard (Spring 2025) - 1.5 H100 hours</summary>
 
