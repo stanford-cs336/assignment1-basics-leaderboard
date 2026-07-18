@@ -85,6 +85,12 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | James Liu | 4.33 | https://api.wandb.ai/links/jamesliu08-stanford-university/tu8vphu2 | |
 | naive baseline |            5.00 |      |                          Verified |
 
+Global leaderboard (Spring 2026) - 0.75 B200 hours
+
+| Name           | Validation Loss | Link | Verification status (leave empty) |
+| :------------- | --------------: | ---: | --------------------------------: |
+| Xuan Haoran | 3.733 | [Validation loss curve](./images/xuan_haoran.png) | |
+
 <details markdown="1">
 <summary>Stanford class leaderboard (Spring 2025) - 1.5 H100 hours</summary>
 
@@ -216,7 +222,6 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Justin Wu   | 3.71 | https://api.wandb.ai/links/justin-wu/9jrz2aep|
 | Harry Shin | 3.70 | https://api.wandb.ai/links/dh2shin2-stanford-university/jueu6en8|
 | Harshit Joshi | 3.69 | https://wandb.ai/josharshit-stanford-university/cs336-basics/reports/CS-336--VmlldzoxMjM2NDcxMQ?accessToken=26yom3e3gznkpvg2yjispit1vhf4thw15i3xbj4hfckynojj0vc2g96bo7uedqec|
-| Xuan Haoran | 3.733 | [Validation loss curve](./images/xuan_haoran.png)|
 | Angela Liu | 3.75 | https://api.wandb.ai/links/aliu917/fdx2pwqa  |  |
 | Herumb Shandilya | 3.76 | https://wandb.ai/krypticmouse/cs336-basics/runs/1zl172ay?nw=nwuserkrypticmouse|
 | Hongyue Li | 3.79 | [Validation loss curve](./images/lhy.png)  |  |
