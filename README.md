@@ -86,6 +86,16 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | naive baseline |            5.00 |      |                          Verified |
 
 <details markdown="1">
+<summary>Global leaderboard (2026) - 0.75 B200 hours</summary>
+
+| Name           | Validation Loss | Link |
+| :------------- | --------------: | ---: |
+| Jacob Sanders | 3.29174 | https://api.wandb.ai/links/jacosand-personal/z3lfej7z |
+| naive baseline |            5.00 |      |                          Verified |
+
+</details>
+
+<details markdown="1">
 <summary>Stanford class leaderboard (Spring 2025) - 1.5 H100 hours</summary>
 
 | Name           | Validation Loss | Link | Verification status (leave empty) |
