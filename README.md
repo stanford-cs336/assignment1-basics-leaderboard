@@ -188,6 +188,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Frank Latos | 3.3506 | https://api.wandb.ai/links/flatos-duo-systems-inc-/c7e7ea70|
 | Mehmet Hamza Erol | 3.353 | https://api.wandb.ai/links/mhamzaerol-stanford-university/hcjj4l7r|
 | Divija Hasteer | 3.35628 | [Validation Loss Curve](images/dhasteer_leaderboard_sub.png)|
+| Zhou Jintian | 3.3811 | [Validation Loss Curve](images/zhoujintian_loss_curves.png)|
 | Christopher Chou | 3.41 | https://api.wandb.ai/links/babychousr-stanford-university/ed9fu89s |
 | Milan Rohatgi | 3.41 | [[https://api.wandb.ai/links/milanrohatgi/zuet4nhc](https://api.wandb.ai/links/milanrohatgi/abxkie8w)](https://api.wandb.ai/links/milanrohatgi/lq28xt0w)|
 | Katherine Li | 3.418 | https://api.wandb.ai/links/kathli/rmglb4ts |
