@@ -85,6 +85,13 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | James Liu | 4.33 | https://api.wandb.ai/links/jamesliu08-stanford-university/tu8vphu2 | |
 | naive baseline |            5.00 |      |                          Verified |
 
+
+Global leaderboard (2026) - 0.75 B200 hours
+
+| Name           | Validation Loss | Link | Verification status (leave empty) |
+| :------------- | --------------: | ---: | --------------------------------: |
+| Anton Dzhondzhorov | 3.8818| [WandB train and val loss curve](https://forge.coreweave.com/wandb/anton-dzhondzhorov-/stanford-cs336/reports/train_loss-val_loss-26-10-13-21-47-44---VmlldzoxODEwNTczNA?accessToken=bse5cw8sen55bm6azp985i9hfkf2irztc1x8vj0lf06mhojw9r7h0enyxzvsda2c) | |
+
 <details markdown="1">
 <summary>Stanford class leaderboard (Spring 2025) - 1.5 H100 hours</summary>
 
