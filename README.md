@@ -85,6 +85,12 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | James Liu | 4.33 | https://api.wandb.ai/links/jamesliu08-stanford-university/tu8vphu2 | |
 | naive baseline |            5.00 |      |                          Verified |
 
+Global leaderboard (Spring 2026) - 0.75 B200 hours
+
+| Name           | Validation Loss | Link | Verification status (leave empty) |
+| :------------- | --------------: | ---: | --------------------------------: |
+| [KQYaili](https://github.com/KQYaili) — 6-layer Pre-LN Transformer (RTX 5070 Ti Laptop; 43.0 min, unverified local run) | 4.3614 | [Validation curve](./images/kqyaili_owt_4.3614.png) · [Run details](./submissions/kqyaili_4.3614.md) | |
+
 <details markdown="1">
 <summary>Stanford class leaderboard (Spring 2025) - 1.5 H100 hours</summary>
 
