@@ -167,6 +167,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Jorge Vanco | 3.1371| https://api.wandb.ai/links/jorgev/qa9to62v |
 | Joe Li | 3.19406 | [Validation loss curve](images/joe_better_muon.png)
 | George Grigorev | 3.211 | https://api.wandb.ai/links/thepowerfuldeez/4cxlverq|
+| Tazik Shahjahan | 3.21518 | https://wandb.ai/tshahjah/cs336-1/reports/OWT-Leaderboard-Submission--VmlldzoxODIxMDA4NQ== |
 | Tejas Narayanan | 3.22 | https://api.wandb.ai/links/tejas-narayanan/n8itavzy|
 | Hermann Kumbong | 3.22 | https://api.wandb.ai/links/hermannk/iwrvwesk|
 | Ayush Agrawal | 3.261 | https://api.wandb.ai/links/ayushag2410/mcbnccjr|
