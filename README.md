@@ -61,6 +61,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Gorn (Nattaput) Namchittai |          3.4348  | https://api.wandb.ai/links/gorn41-stanford-university/jhwu57vq | |
 | Asanshay Gupta        |          3.4451 | https://api.wandb.ai/links/aniketgupta-stanford-university/jszkfzky | |
 | Jiaming Shen | 3.4462 | https://api.wandb.ai/links/shenjm-stanford-university/nan5mxa8 | |
+| Anav Shah | 3.46 | [Validation loss curve](./images/anav_shah_owt_curve.png) | |
 | Alex Bloom | 3.4625 | https://api.wandb.ai/links/alexpeterbloom-stanford-university/ni7vw60x | |
 | Insop Song | 3.546 | https://api.wandb.ai/links/insop-song2/34j0x6dk | |
 | Yuheng Wu | 3.56 | [Validation loss curve](images/yuhengwu.png) | |
