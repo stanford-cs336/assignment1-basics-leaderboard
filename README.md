@@ -47,6 +47,7 @@ Stanford class leaderboard (Spring 2026) - 0.75 B200 hours
 | Alexandra Kim | 3.266 | https://api.wandb.ai/links/alexandrasuriya-ml/1nybxa71 | |
 | Adam Alhousiki | 3.2929 | [validation loss curve](./images/adam_alhousiki_leaderboard.png) | |
 | Jiaxin Fang | 3.32098 | https://api.wandb.ai/links/jiaxinf-stanford-university/gm6mft4d | |
+| EasonWheng (TRUMP-786) | 3.33471 | [Validation loss curve](./images/trump786_learning_curve.png) | |
 | Tim Chen | 3.335 | https://wandb.ai/chentim-sh-stanford-university/cs336-assignment1/reports/valid_loss-26-04-15-15-36-54---VmlldzoxNjU0NTU4Ng | |
 | Eric Chen| 3.33875 | https://api.wandb.ai/links/3ricme-Stanford%20University/cimht73a | |
 | Sara Kothari | 3.36327 | https://api.wandb.ai/links/sarako-stanford-university/iop3e8la  | |
